@@ -55,7 +55,7 @@ app.get('/issues/*', function (req, res) {
   trello.getCards(listId)
   .then(function(data) {
     if (data) {
-      var msg = data.map(function(card) { return card.name + '\n'; })
+      var msg = data.map(function(card) { return card.name + ' [trello](https://trello.com/c/' + card.shortLink + '/)' + '\n'; })
       res.status(200).send('Issues: \n' + msg);
     } else {
       res.satus(200).send('No open issues found.');
