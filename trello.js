@@ -1,7 +1,7 @@
 var Trello = require("node-trello");
 var Promise = require("bluebird");
 
-// TODO: migrate to node env
+// TODO: migrate to node env or config
 var trelloOrg = '53681190ac6ebd2c533b02d5';
 
 var  api = Promise.promisifyAll(new Trello(process.env.TRELLO_KEY, process.env.TRELLO_TOKEN));
