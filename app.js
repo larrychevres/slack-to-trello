@@ -48,6 +48,18 @@ function postToTrello(listId, command, text, user_name, cb) {
 	//trello.post('/1/lists/' + listId + '/cards', card_data, cb);
 }
 
+var trelloLastResponse = 'nothing yet';
+
+app.get('/trello', function(req, res, next) {
+  res.status(200).send(trelloLastResponse);
+});
+
+app.post('/trello', function(req,res,ext) {
+  var text = req.body.text;
+  trelloLastResponse = text;
+  res.status(200).send();
+});
+
 app.post('/*', function(req, res, next) {
   var listId = req.params[0];
   var command = req.body.command,
@@ -90,6 +102,7 @@ app.get('/issues/*', function (req, res) {
     }
   })
 });
+
 
 // test route
 app.get('/', function (req, res) { res.status(200).send('SupportKit.io loves Slack and Trello!') });
