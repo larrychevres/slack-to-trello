@@ -1,7 +1,11 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var Trello = require('node-trello');
-var trello = new Trello(process.env.TRELLO_KEY, process.env.TRELLO_TOKEN);
+//var trello = new Trello(process.env.TRELLO_KEY, process.env.TRELLO_TOKEN);
+var trello = require('./trello.js')
+
+//"dd936039c7fee8d9fa7bf201ea9d74c7", 
+//  "fc143bcd1d7f4dea74dddaca0e99692d14898dc6780aee043b3658d22f742ac2"));
 
 var app = express();
 var port = process.env.PORT || 3000;
@@ -20,7 +24,11 @@ function postToTrello(listId, command, text, user_name, cb) {
 		'desc' : name_and_desc.shift()
 	};
 
-	trello.post('/1/lists/' + listId + '/cards', card_data, cb);
+  trello.createCard(listId, card_data.name, card_data.desc)
+  .then(function(data) {
+    cb(null,data);
+  });
+	//trello.post('/1/lists/' + listId + '/cards', card_data, cb);
 }
 
 app.post('/*', function(req, res, next) {
@@ -38,6 +46,21 @@ app.post('/*', function(req, res, next) {
 
     res.status(200).send('Card "' + name + '" created here: <' + url + '>');
   });
+});
+
+// test route
+app.get('/issues/*', function (req, res) {
+  var listId = req.params[0];
+  
+  trello.getCards(listId)
+  .then(function(data) {
+    if (data) {
+      var msg = data.map(function(card) { return card.name + '\n'; })
+      res.status(200).send('Issues: \n' + msg);
+    } else {
+      res.satus(200).send('No open issues found.');
+    }
+  })
 });
 
 // test route
