@@ -6,3 +6,5 @@ This code sets up a nodejs backend that responds to your Trello Slash Command fr
 To deploy this for free on Heroku, click this button:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+added /issues endpoint to list cards
