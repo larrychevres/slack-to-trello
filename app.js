@@ -84,11 +84,18 @@ app.get('/phone', function(req, res) {
     if (el.name && el.telephonenumber) {
       return el.name.match(new RegExp(term, 'i'));
     }
-  })
+  });
 
-  res.status(200).send(entries.map(function(x) { 
-    return { 'mail': x.mail, 'name': x.name, 'phone': x.telephonenumber };
-  }));
+  if (req.query.format == 'text') { 
+    res.status(200).send(entries.map(function(x) { 
+      return x.name + ": " + x.telephonenumber;
+    }).join('\n'));  
+  } else {
+    res.status(200).send(entries.map(function(x) { 
+      return { 'mail': x.mail, 'name': x.name, 'phone': x.telephonenumber };
+    }));
+
+  }
 
 })
 
