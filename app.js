@@ -30,6 +30,20 @@ var send = Promise.promisify(function(options, cb) {
   });
 });
 
+// compare of ldap name entries
+var compare = function(a,b) {
+  if (a.name && b.name) {
+    if (a.name < b.name) { 
+      return -1
+    }
+    if (a.name > b.name) { 
+      return 1
+    }
+    return 0;
+  }
+  return 0;
+}
+
 function postToTrello(listId, command, text, user_name, cb) {
   if (text == undefined || text == null || text == "") {
     throw new Error('Format is ' + command + ' name | description(optional)');
@@ -90,9 +104,10 @@ app.get('/phone', function(req, res) {
     if (entries.length == 0) {
       res.status(200).send("No entries found for: " + term)
     } else {
-    res.status(200).send(entries.map(function(x) { 
-      return x.name + ": " + x.telephonenumber;
-    }).join('\n')); 
+      entries = entries.sort(compare);
+      res.status(200).send(entries.map(function(x) { 
+        return x.name + ": " + x.telephonenumber;
+      }).join('\n')); 
     } 
   } else {
     res.status(200).send(entries.map(function(x) { 
