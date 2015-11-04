@@ -78,7 +78,7 @@ app.post('/*', function(req, res, next) {
 });
 
 app.get('/phone', function(req, res) { 
-  var term = req.query.term;
+  var term = req.query.term || req.query.text;
 
   var entries = phones.emails.filter(function(el) {
     if (el.name && el.telephonenumber) {
