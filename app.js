@@ -87,9 +87,13 @@ app.get('/phone', function(req, res) {
   });
 
   if (req.query.format == 'text') { 
+    if (entries.length == 0) {
+      res.status(200).send("No entries found for: " + term)
+    } else {
     res.status(200).send(entries.map(function(x) { 
       return x.name + ": " + x.telephonenumber;
-    }).join('\n'));  
+    }).join('\n')); 
+    } 
   } else {
     res.status(200).send(entries.map(function(x) { 
       return { 'mail': x.mail, 'name': x.name, 'phone': x.telephonenumber };
