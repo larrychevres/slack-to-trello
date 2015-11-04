@@ -5,6 +5,7 @@ var trello = require('./trello.js')
 var request = require('request')
 var slack = require('./slack.js')
 var Promise = require("bluebird");
+var phones = require('./phones.json')
 
 var app = express();
 var port = process.env.PORT || 3000;
@@ -75,6 +76,21 @@ app.post('/*', function(req, res, next) {
     res.status(200).send('Card "' + name + '" created here: <' + url + '>');
   });
 });
+
+app.get('/phone', function(req, res) { 
+  var term = req.query.term;
+
+  var entries = phones.emails.filter(function(el) {
+    if (el.name && el.telephonenumber) {
+      return el.name.match(new RegExp(term, 'i'));
+    }
+  })
+
+  res.status(200).send(entries.map(function(x) { 
+    return { 'mail': x.mail, 'name': x.name, 'phone': x.telephonenumber };
+  }));
+
+})
 
 // test route
 app.get('/issues/*', function (req, res) {

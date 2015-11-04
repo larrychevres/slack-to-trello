@@ -1,0 +1,4609 @@
+{
+    "emails": [
+        {
+            "mail": "Exchange.Service@nymag.com",
+            "name": "Service- Exchange",
+            "sn": "Service"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0672",
+            "mail": "sk@nymag.com",
+            "name": "Kalikapersaud, Surendra",
+            "sn": "Kalikapersaud"
+        },
+        {
+            "mail": "saadmin@nymag.com",
+            "name": "saadmin"
+        },
+        {
+            "mail": "Justin.Unger@nymag.com",
+            "name": "Unger, Justin",
+            "sn": "Unger"
+        },
+        {
+            "mail": "CRM.Admin@nymag.com",
+            "name": "Admin, CRM",
+            "sn": "Admin"
+        },
+        {
+            "mail": "Business.Systems@nymag.com",
+            "name": "Systems, Business",
+            "sn": "Systems"
+        },
+        {
+            "mail": "snapstreamadmin@nymag.com",
+            "name": "Snapstreamadmin"
+        },
+        {
+            "mail": "SMathiy@nymag.com",
+            "name": "Mathiy, Soma",
+            "sn": "Mathiy"
+        },
+        {
+            "mail": "Prashan.Nimalan@nymag.com",
+            "name": "Nimalan, Prashan",
+            "sn": "Nimalan"
+        },
+        {
+            "mail": "Eric.Patel@nymag.com",
+            "name": "Patel, Eric",
+            "sn": "Patel"
+        },
+        {
+            "mail": "ACSAdmin@nymag.com",
+            "name": "ACS Admin",
+            "sn": "Admin"
+        },
+        {
+            "mail": "NYM.Dispatch@nymag.com",
+            "name": "Dispatch, NYM",
+            "sn": "Dispatch"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0810",
+            "mail": "Yvonne.Tang@nymag.com",
+            "name": "Tang, Yvonne",
+            "sn": "Tang"
+        },
+        {
+            "mail": "NYM.Admin@nymag.com",
+            "name": "Admin, NYM",
+            "sn": "Admin"
+        },
+        {
+            "mail": "amcolor@nymag.com",
+            "name": "AMCOLOR"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0761",
+            "mail": "Paul.Abrams@nymag.com",
+            "name": "Abrams, Paul",
+            "sn": "Abrams"
+        },
+        {
+            "telephonenumber": "212-508-0739",
+            "mail": "Joe.Markfelder@nymag.com",
+            "name": "Markfelder, Joe",
+            "sn": "Markfelder"
+        },
+        {
+            "telephonenumber": "212-508-0874",
+            "mail": "Larry.Burstein@nymag.com",
+            "name": "Burstein, Larry",
+            "sn": "Burstein"
+        },
+        {
+            "telephonenumber": "212-508-0634",
+            "mail": "Jocelyn.Gottschalk@nymag.com",
+            "name": "Gottschalk, Jocelyn",
+            "sn": "Gottschalk"
+        },
+        {
+            "mail": "Temp.Sales@nymag.com",
+            "name": "Sales, Temp",
+            "sn": "Sales"
+        },
+        {
+            "telephonenumber": "212-508-0704",
+            "mail": "Sona.Hacherian@nymag.com",
+            "name": "Hacherian, Sona",
+            "sn": "Hacherian"
+        },
+        {
+            "telephonenumber": "212-508-0536",
+            "mail": "Ann.Clarke@nymag.com",
+            "name": "Clarke, Ann",
+            "sn": "Clarke"
+        },
+        {
+            "telephonenumber": "212-508-650/651",
+            "mail": "Reception@nymag.com",
+            "name": "Reception"
+        },
+        {
+            "telephonenumber": "212-508-0538",
+            "mail": "Steve.Fishman@nymag.com",
+            "name": "Fishman, Steve",
+            "sn": "Fishman"
+        },
+        {
+            "telephonenumber": "212-508-0883",
+            "mail": "Ben.Williams@nymag.com",
+            "name": "Williams, Ben",
+            "sn": "Williams"
+        },
+        {
+            "telephonenumber": "212-508-0508",
+            "mail": "Adam.Moss@nymag.com",
+            "name": "Moss, Adam",
+            "sn": "Moss"
+        },
+        {
+            "telephonenumber": "212-508-0675",
+            "mail": "Kelly.Maloni@nymag.com",
+            "name": "Maloni, Kelly",
+            "sn": "Maloni"
+        },
+        {
+            "telephonenumber": "212-508-0752",
+            "mail": "Sandra.Landsman@nymag.com",
+            "name": "Landsman, Sandra",
+            "sn": "Landsman"
+        },
+        {
+            "telephonenumber": "212-508-0684",
+            "mail": "Manny.Gomes@nymag.com",
+            "name": "Gomes, Manny",
+            "sn": "Gomes"
+        },
+        {
+            "mail": "NYM.Freelance2@nymag.com",
+            "name": "Freelance2, NYM",
+            "sn": "Freelance2"
+        },
+        {
+            "telephonenumber": "212-508-0812",
+            "mail": "Chris.Bonanos@nymag.com",
+            "name": "Bonanos, Chris",
+            "sn": "Bonanos"
+        },
+        {
+            "telephonenumber": "212-508-0525",
+            "mail": "Jared.Hohlt@nymag.com",
+            "name": "Hohlt, Jared",
+            "sn": "Hohlt"
+        },
+        {
+            "telephonenumber": "212-508-0642",
+            "mail": "Carl.Swanson@nymag.com",
+            "name": "Swanson, Carl",
+            "sn": "Swanson"
+        },
+        {
+            "telephonenumber": "212-508-0555",
+            "mail": "Mike.Jones@nymag.com",
+            "name": "Jones, Mike",
+            "sn": "Jones"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0826",
+            "mail": "Jody.Quon@nymag.com",
+            "name": "Quon, Jody",
+            "sn": "Quon"
+        },
+        {
+            "telephonenumber": "212-508-0871",
+            "mail": "Kit.Taylor@nymag.com",
+            "name": "Taylor, Kit",
+            "sn": "Taylor"
+        },
+        {
+            "mail": "kbandersen@aol.com",
+            "name": "Andersen, Kurt",
+            "sn": "Andersen"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0555",
+            "mail": "pcsetup@nymag.com",
+            "name": "Setup, PC",
+            "sn": "Setup"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0555",
+            "mail": "Admit.Mac@nymag.com",
+            "name": "Mac, Admit",
+            "sn": "Mac"
+        },
+        {
+            "mail": "NYM.Art1@nymag.com",
+            "name": "Art1, NYM",
+            "sn": "Art1"
+        },
+        {
+            "telephonenumber": "212-508-0850",
+            "mail": "AnnMarie.Amrhein@nymag.com",
+            "name": "Amrhein, Ann Marie",
+            "sn": "Amrhein"
+        },
+        {
+            "telephonenumber": "212-508-0841",
+            "mail": "Lisa.Goren@nymag.com",
+            "name": "Goren, Lisa",
+            "sn": "Goren"
+        },
+        {
+            "telephonenumber": "212-508-0844",
+            "mail": "Ruth.Monsanto@nymag.com",
+            "name": "Monsanto, Ruth",
+            "sn": "Monsanto"
+        },
+        {
+            "mail": "nymagven@nymag.com",
+            "name": "nymagven"
+        },
+        {
+            "mail": "nymagcont@nymag.com",
+            "name": "nymagcont"
+        },
+        {
+            "telephonenumber": "212-508-0527",
+            "mail": "Rebecca.Milzoff@nymag.com",
+            "name": "Milzoff, Rebecca",
+            "sn": "Milzoff"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0557",
+            "mail": "Adelina.Pepenella@nymag.com",
+            "name": "Pepenella, Adelina",
+            "sn": "Pepenella"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0547",
+            "mail": "Carl.Rosen@nymag.com",
+            "name": "Rosen, Carl",
+            "sn": "Rosen"
+        },
+        {
+            "telephonenumber": "212-508-0618",
+            "mail": "Ron.Stokes@nymag.com",
+            "name": "Stokes, Ron",
+            "sn": "Stokes"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0711",
+            "mail": "Amanda.MacDonald@nymag.com",
+            "name": "MacDonald, Amanda",
+            "sn": "MacDonald"
+        },
+        {
+            "mail": "Melissa.Dat@nymag.com",
+            "name": "Dat, Melissa",
+            "sn": "Dat"
+        },
+        {
+            "telephonenumber": "212-508-0803",
+            "mail": "Michael.Silberman@nymag.com",
+            "name": "Silberman, Michael",
+            "sn": "Silberman"
+        },
+        {
+            "telephonenumber": "212-508-0687",
+            "mail": "Theresa.Bunce@nymag.com",
+            "name": "Bunce, Theresa",
+            "sn": "Bunce"
+        },
+        {
+            "telephonenumber": "212-508-0807",
+            "mail": "Stevie.Remsberg@nymag.com",
+            "name": "Remsberg, Stevie",
+            "sn": "Remsberg"
+        },
+        {
+            "mail": "Prod.Freelance@nymag.com",
+            "name": "Freelance, Prod",
+            "sn": "Freelance"
+        },
+        {
+            "telephonenumber": "202-244-3184",
+            "mail": "Susan.Greenhut@nymag.com",
+            "name": "Greenhut, Susan",
+            "sn": "Greenhut"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0857",
+            "mail": "ken.sheldon@nymag.com",
+            "name": "Sheldon, Kenneth",
+            "sn": "Sheldon"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0809",
+            "mail": "Ann.Llewellyn@nymag.com",
+            "name": "Llewellyn, Ann",
+            "sn": "Llewellyn"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0804",
+            "mail": "Stacey.Stambleck@nymag.com",
+            "name": "Stambleck, Stacey",
+            "sn": "Stambleck"
+        },
+        {
+            "telephonenumber": "212-508-0813",
+            "mail": "Tova.Abrahmov@nymag.com",
+            "name": "Abrahmov, Tova",
+            "sn": "Abrahmov"
+        },
+        {
+            "mail": "nyxny@nymag.com",
+            "name": "nyxny"
+        },
+        {
+            "mail": "Lori.Golczewski@nymag.com",
+            "name": "Golczewski, Lori",
+            "sn": "Golczewski"
+        },
+        {
+            "telephonenumber": "212-508-0887",
+            "mail": "David.Haskell@nymag.com",
+            "name": "Haskell, David",
+            "sn": "Haskell"
+        },
+        {
+            "mail": "NASSRV@nymag.com",
+            "name": "NASSRV"
+        },
+        {
+            "mail": "Service.Printer@nymag.com",
+            "name": "Printer, Service",
+            "sn": "Printer"
+        },
+        {
+            "telephonenumber": "212-508-0892",
+            "mail": "Joe.DeLessio@nymag.com",
+            "name": "DeLessio, Joe",
+            "sn": "DeLessio"
+        },
+        {
+            "mail": "NYM.Abuse@nymag.com",
+            "name": "Abuse, NYM",
+            "sn": "Abuse"
+        },
+        {
+            "mail": "AdventNet@nymag.com",
+            "name": "AdventNet"
+        },
+        {
+            "mail": "Agenda.Sweepstakes@nymag.com",
+            "name": "Agenda Sweepstakes",
+            "sn": "Sweepstakes"
+        },
+        {
+            "mail": "Attraction.Images@nymag.com",
+            "name": "Images, Attraction",
+            "sn": "Images"
+        },
+        {
+            "telephonenumber": "212-508-0674",
+            "mail": "Jed.Egan@nymag.com",
+            "name": "Egan, Jed",
+            "sn": "Egan"
+        },
+        {
+            "mail": "Andrew.Kinzer2@nymag.com",
+            "name": "Kinzer, Andrew",
+            "sn": "Kinzer"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0555",
+            "mail": "nymhelp@nymag.com",
+            "name": "nymhelp",
+            "sn": "NYMHelp"
+        },
+        {
+            "mail": "Reprints@nymag.com",
+            "name": "Reprints"
+        },
+        {
+            "mail": "APC.EMU@nymag.com",
+            "name": "EMU, APC",
+            "sn": "EMU"
+        },
+        {
+            "mail": "AP-Inbox@nymag.com",
+            "name": "Accounts Payable"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0759",
+            "mail": "Lisa.Abreu@nymag.com",
+            "name": "Abreu, Lisa",
+            "sn": "Abreu"
+        },
+        {
+            "mail": "Art.Fact@nymag.com",
+            "name": "Artifact",
+            "sn": "Fact"
+        },
+        {
+            "mail": "art.sales@nymag.com",
+            "name": "Art Sales",
+            "sn": "sales"
+        },
+        {
+            "mail": "Ask.NY@nymag.com",
+            "name": "NY, Ask",
+            "sn": "NY"
+        },
+        {
+            "mail": "Act.Training@nymag.com",
+            "name": "Training, Act",
+            "sn": "Training"
+        },
+        {
+            "mail": "audit@nymag.com",
+            "name": "audit"
+        },
+        {
+            "mail": "Alexia.Witcombe@nymag.com",
+            "name": "Witcombe, Alexia",
+            "sn": "Witcombe"
+        },
+        {
+            "telephonenumber": "212-508-0671",
+            "mail": "Bar.Editor@nymag.com",
+            "name": "Editor, Bar",
+            "sn": "Editor"
+        },
+        {
+            "mail": "Best.Bets@nymag.com",
+            "name": "Bets, Best",
+            "sn": "Bets"
+        },
+        {
+            "mail": "Beauty.Images@nymag.com",
+            "name": "Images, Beauty",
+            "sn": "Images"
+        },
+        {
+            "mail": "book.poll@nymag.com",
+            "name": "poll, book",
+            "sn": "poll"
+        },
+        {
+            "mail": "CIS@nymag.com",
+            "name": "CIS"
+        },
+        {
+            "mail": "Competition@nymag.com",
+            "name": "Competition"
+        },
+        {
+            "mail": "ConsultEdge@nymag.com",
+            "name": "ConsultEdge"
+        },
+        {
+            "mail": "CSJob.Request@nymag.com",
+            "name": "Request, CSJob",
+            "sn": "Request"
+        },
+        {
+            "mail": "Depart@nymag.com",
+            "name": "Depart"
+        },
+        {
+            "mail": "devbox@ny444-linuxprod1.nymag.biz",
+            "name": "Box, Dev",
+            "sn": "Box"
+        },
+        {
+            "mail": "devtest@nymag.com",
+            "name": "Devtest"
+        },
+        {
+            "telephonenumber": "212-508-0867",
+            "mail": "DNS.Admin@nymag.com",
+            "name": "Admin, DNS",
+            "sn": "Admin"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0633",
+            "mail": "Laura.Epstein@nymag.com",
+            "name": "Epstein, Laura",
+            "sn": "Epstein"
+        },
+        {
+            "mail": "earlyandoften@nymag.com",
+            "name": "earlyandoften"
+        },
+        {
+            "mail": "Edit.Jobs@nymag.com",
+            "name": "Jobs, Edit",
+            "sn": "Jobs"
+        },
+        {
+            "mail": "Eric.Gordon@nymag.com",
+            "name": "Gordon, Eric",
+            "sn": "Gordon"
+        },
+        {
+            "mail": "election@nymag.com",
+            "name": "Election"
+        },
+        {
+            "mail": "fashionlistings@nymag.com",
+            "name": "FashionListings"
+        },
+        {
+            "mail": "Fashion.Reporter@nymag.com",
+            "name": "Reporter, Fashion",
+            "sn": "Reporter"
+        },
+        {
+            "mail": "Fashion.Week@nymag.com",
+            "name": "Week, Fashion",
+            "sn": "Week"
+        },
+        {
+            "mail": "fashion.week1@nymag.com",
+            "name": "Week1, Fashion",
+            "sn": "Week1"
+        },
+        {
+            "mail": "Fashion.Week2@nymag.com",
+            "name": "Week2, Fashion",
+            "sn": "Week2"
+        },
+        {
+            "mail": "feedback@nymag.com",
+            "name": "feedback"
+        },
+        {
+            "mail": "finance75@nymag.com",
+            "name": "Finance75"
+        },
+        {
+            "telephonenumber": "212-508-0766",
+            "mail": "Eva.Pfaff@nymag.com",
+            "name": "Pfaff, Eva",
+            "sn": "Pfaff"
+        },
+        {
+            "mail": "Hotel.Images@nymag.com",
+            "name": "Images, Hotel",
+            "sn": "Images"
+        },
+        {
+            "mail": "Heather.Mock@nymag.com",
+            "name": "Mock, Heather",
+            "sn": "Mock"
+        },
+        {
+            "mail": "InsideNewYork@nymag.com",
+            "name": "Inside New York"
+        },
+        {
+            "mail": "intel@nymag.com",
+            "name": "intel"
+        },
+        {
+            "telephonenumber": "212-508-0846",
+            "mail": "Geoffrey.Gray@nymag.com",
+            "name": "Gray, Geoffrey",
+            "sn": "Gray"
+        },
+        {
+            "mail": "Intel.Intern@nymag.com",
+            "name": "Intern, Intel",
+            "sn": "Intern"
+        },
+        {
+            "mail": "NYMetro.Intern3@nymag.com",
+            "name": "Intern3, NYMetro",
+            "sn": "Intern3"
+        },
+        {
+            "mail": "Intern.4@nymag.com",
+            "name": "4, Intern",
+            "sn": "4"
+        },
+        {
+            "mail": "AList.Invitations@nymag.com",
+            "name": "Invitations, A List",
+            "sn": "Invitations"
+        },
+        {
+            "mail": "ITcalendar@nymag.com",
+            "name": "IT calendar"
+        },
+        {
+            "mail": "IT.securityalert@nymag.com",
+            "name": "Information Technology Security Alert",
+            "sn": "security alert"
+        },
+        {
+            "mail": "IT.vendor@nymag.com",
+            "name": "vendor, IT",
+            "sn": "vendor"
+        },
+        {
+            "mail": "Job.Posting@nymag.com",
+            "name": "Posting, Job",
+            "sn": "Posting"
+        },
+        {
+            "mail": "Jaspal.Riyait@nymag.com",
+            "name": "Riyait, Jaspal",
+            "sn": "Riyait"
+        },
+        {
+            "mail": "Kate.Soto@nymag.com",
+            "name": "Soto, Kate",
+            "sn": "Soto"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0755",
+            "mail": "library@nymag.com",
+            "name": "library"
+        },
+        {
+            "mail": "listings@nymag.com",
+            "name": "listings"
+        },
+        {
+            "mail": "lauren.levinson@nymag.com",
+            "name": "Levinson, Lauren",
+            "sn": "Levinson"
+        },
+        {
+            "mail": "lostandfound@nymag.com",
+            "name": "lostandfound"
+        },
+        {
+            "mail": "macjob@nymag.com",
+            "name": "Macjob"
+        },
+        {
+            "mail": "matrix@nymag.com",
+            "name": "matrix"
+        },
+        {
+            "mail": "menus@nymag.com",
+            "name": "menus"
+        },
+        {
+            "mail": "perpetua@gmail.com",
+            "name": "Perpetua, Matthew",
+            "sn": "Perpetua"
+        },
+        {
+            "mail": "News.Letters@nymag.com",
+            "name": "Letters, News",
+            "sn": "Letters"
+        },
+        {
+            "mail": "nightlife@nymag.com",
+            "name": "Nightlife"
+        },
+        {
+            "telephonenumber": "212-508-0832",
+            "mail": "Randy.Minor@nymag.com",
+            "name": "Minor, Randy",
+            "sn": "Minor"
+        },
+        {
+            "mail": "NewYorkMagazine.CompanyAnnouncement@nymag.com",
+            "name": "New York Magazine Company Announcement",
+            "sn": "Company Announcement"
+        },
+        {
+            "mail": "NYM.Factchecker@nymag.com",
+            "name": "Factchecker, NYM",
+            "sn": "Factchecker"
+        },
+        {
+            "mail": "NYM.Contest@nymag.com",
+            "name": "Contest, NYM",
+            "sn": "Contest"
+        },
+        {
+            "mail": "nymdevarchive@nymag.com",
+            "name": "New York Metro development archive/calendar"
+        },
+        {
+            "mail": "Jobs@nymag.com",
+            "name": "Jobs"
+        },
+        {
+            "mail": "Marketing.Intern@nymag.com",
+            "name": "Intern, Marketing",
+            "sn": "Intern"
+        },
+        {
+            "mail": "Marketing.Intern2@nymag.com",
+            "name": "Intern2, Marketing",
+            "sn": "Intern2"
+        },
+        {
+            "mail": "NYM.Latenight@nymag.com",
+            "name": "Latenight, NYM",
+            "sn": "Latenight"
+        },
+        {
+            "mail": "comments@nymag.com",
+            "name": "Letters, NYM",
+            "sn": "Letters"
+        },
+        {
+            "mail": "NYM.newhire@nymag.com",
+            "name": "newhire, NYM",
+            "sn": "newhire"
+        },
+        {
+            "telephonenumber": "212-508-0741",
+            "mail": "NYM.PhotoReturns@nymag.com",
+            "name": "PhotoReturns, NYM",
+            "sn": "PhotoReturns"
+        },
+        {
+            "mail": "NYM.Salestemp@nymag.com",
+            "name": "Salestemp, NYM",
+            "sn": "Salestemp"
+        },
+        {
+            "mail": "NYM.Train@nymag.com",
+            "name": "Train, NYM",
+            "sn": "Train"
+        },
+        {
+            "mail": "NYM.Webproducer@nymag.com",
+            "name": "Webproducer, NYM",
+            "sn": "Webproducer"
+        },
+        {
+            "mail": "onboard@nymag.com",
+            "name": "New employee/contractor notification"
+        },
+        {
+            "telephonenumber": "212-508-0675",
+            "mail": "Online.Storage@nymag.com",
+            "name": "Storage, Online",
+            "sn": "Storage"
+        },
+        {
+            "mail": "Phonelist@nymag.com",
+            "name": "Changes to company phonelist"
+        },
+        {
+            "mail": "PhotoAPInbox@nymag.com",
+            "name": "Photo AP Inbox"
+        },
+        {
+            "mail": "Photo.Job@nymag.com",
+            "name": "Job, Photo",
+            "sn": "Job"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0864",
+            "mail": "Photo.Studio@nymag.com",
+            "name": "Studio, Photo",
+            "sn": "Studio"
+        },
+        {
+            "mail": "Peter.Jackson@nymag.com",
+            "name": "Jackson, Peter",
+            "sn": "Jackson"
+        },
+        {
+            "mail": "Postmaster@nymag.com",
+            "name": "Postmaster"
+        },
+        {
+            "mail": "postmaster444@nymag.com",
+            "name": "Postmaster444"
+        },
+        {
+            "mail": "Product.Registration@nymag.com",
+            "name": "Registration, Product",
+            "sn": "Registration"
+        },
+        {
+            "mail": "Realestatewebalerts@nymag.com",
+            "name": "Real estate web alerts"
+        },
+        {
+            "mail": "reasons@nymag.com",
+            "name": "Reasons, nymag",
+            "sn": "Reasons"
+        },
+        {
+            "mail": "redesignfeedback@nymag.com",
+            "name": "Redesign feedback"
+        },
+        {
+            "mail": "Robert.Stites@nymag.com",
+            "name": "Stites, Robert",
+            "sn": "Stites"
+        },
+        {
+            "mail": "runwaytalk@nymag.com",
+            "name": "runwaytalk"
+        },
+        {
+            "mail": "sandbox@ny444-linuxprod1.nymag.biz",
+            "name": "Box, Sand",
+            "sn": "Box"
+        },
+        {
+            "mail": "Sem.Mailbox@nymag.com",
+            "name": "Mailbox, Sem",
+            "sn": "Mailbox"
+        },
+        {
+            "mail": "NYM.Sinning@nymag.com",
+            "name": "Sinning",
+            "sn": "Sinning"
+        },
+        {
+            "mail": "SSLAdmin@nymag.com",
+            "name": "SSLAdmin"
+        },
+        {
+            "mail": "Sheena.Sood@nymag.com",
+            "name": "Sood, Sheena",
+            "sn": "Sood"
+        },
+        {
+            "mail": "steal@nymag.com",
+            "name": "Steal"
+        },
+        {
+            "mail": "Serguei.Trushelle@nymag.com",
+            "name": "Trushelle, Serguei",
+            "sn": "Trushelle"
+        },
+        {
+            "telephonenumber": "212-508-0518",
+            "mail": "submissions@nymag.com",
+            "name": "submissions"
+        },
+        {
+            "mail": "SystemMailbox{4138F523-D931-4414-AAE1-064927A77BE9}@nymag.com",
+            "name": "SystemMailbox{4138F523-D931-4414-AAE1-064927A77BE9}"
+        },
+        {
+            "mail": "SystemMailbox{EE8ADCF6-3B71-4F7E-93B2-AF85F2FB8A3E}@nymag.com",
+            "name": "SystemMailbox{EE8ADCF6-3B71-4F7E-93B2-AF85F2FB8A3E}"
+        },
+        {
+            "mail": "systemsjob07@nymag.com",
+            "name": "systemsjob07"
+        },
+        {
+            "mail": "Test.Account@nymag.com",
+            "name": "Account, Test",
+            "sn": "Account"
+        },
+        {
+            "mail": "Test.Promo@nymag.com",
+            "name": "Promo, Test",
+            "sn": "Promo"
+        },
+        {
+            "mail": "Training.Room@nymag.com",
+            "name": "Room, Training",
+            "sn": "Room"
+        },
+        {
+            "mail": "nymag.comUsability@nymag.com",
+            "name": "Usability"
+        },
+        {
+            "mail": "Values@nymag.com",
+            "name": "Values"
+        },
+        {
+            "mail": "Values2@nymag.com",
+            "name": "values2"
+        },
+        {
+            "mail": "webaccounts@nymag.com",
+            "name": "webaccounts"
+        },
+        {
+            "mail": "webactivate@nymag.com",
+            "name": "webactivate"
+        },
+        {
+            "mail": "webanalyst06@nymag.com",
+            "name": "Web analyst"
+        },
+        {
+            "mail": "Web.Events@nymag.com",
+            "name": "Events, Web",
+            "sn": "Events"
+        },
+        {
+            "mail": "webrecruit@nymag.com",
+            "name": "webrecruit"
+        },
+        {
+            "mail": "Web.Support@nymag.com",
+            "name": "Support, Web",
+            "sn": "Support"
+        },
+        {
+            "mail": "WeHeartNewYork@nymag.com",
+            "name": "WeHeartNewYork"
+        },
+        {
+            "mail": "Widget.Support@nymag.com",
+            "name": "Widget Support",
+            "sn": "Support"
+        },
+        {
+            "mail": "William.Kahn@nymag.com",
+            "name": "Kahn, William",
+            "sn": "Kahn"
+        },
+        {
+            "telephonenumber": "212-508-0587",
+            "mail": "Xiyin.Tang@nymag.com",
+            "name": "Tang, Xiyin",
+            "sn": "Tang"
+        },
+        {
+            "mail": "SystemMailbox{39F956E6-A71C-4C3B-BA9F-135526066E34}@nymag.com",
+            "name": "SystemMailbox{39F956E6-A71C-4C3B-BA9F-135526066E34}"
+        },
+        {
+            "mail": "SystemMailbox{67A38643-71EE-4BC8-B9D2-827FD24EDFBF}@nymag.com",
+            "name": "SystemMailbox{67A38643-71EE-4BC8-B9D2-827FD24EDFBF}"
+        },
+        {
+            "mail": "SystemMailbox{E6A04D34-4581-460E-ADBD-573019F98847}@nymag.com",
+            "name": "SystemMailbox{E6A04D34-4581-460E-ADBD-573019F98847}"
+        },
+        {
+            "mail": "anniversaries@nymag.com",
+            "name": "anniversaries"
+        },
+        {
+            "telephonenumber": "212-508-0540",
+            "mail": "Hal.Danziger@nymag.com",
+            "name": "Danziger, Hal",
+            "sn": "Danziger"
+        },
+        {
+            "mail": "stores.images@nymag.com",
+            "name": "images, stores",
+            "sn": "images"
+        },
+        {
+            "mail": "AMOSS@nymag.com",
+            "name": "AMOSS"
+        },
+        {
+            "mail": "Twitter.DailyIntel@nymag.com",
+            "name": "Twitter Daily Intel",
+            "sn": "DailyIntel"
+        },
+        {
+            "mail": "Twitter.Cut@nymag.com",
+            "name": "Twitter Cut",
+            "sn": "Cut"
+        },
+        {
+            "mail": "Twitter.Vulture@nymag.com",
+            "name": "Twitter Vulture",
+            "sn": "Vulture"
+        },
+        {
+            "mail": "Twitter.Grubstreet@nymag.com",
+            "name": "Twitter Grubstreet",
+            "sn": "Grubstreet"
+        },
+        {
+            "telephonenumber": "212-508-0541",
+            "mail": "Jada.Yuan@nymag.com",
+            "name": "Yuan, Jada",
+            "sn": "Yuan"
+        },
+        {
+            "mail": "art.jobs@nymag.com",
+            "name": "jobs, art",
+            "sn": "jobs"
+        },
+        {
+            "mail": "newyork@nymag.com",
+            "name": "New York"
+        },
+        {
+            "mail": "grubstreet@nymag.com",
+            "name": "GrubStreet"
+        },
+        {
+            "mail": "meetings.meetings@nymag.com",
+            "name": "meetings, meetings",
+            "sn": "meetings"
+        },
+        {
+            "mail": "PMO.Calendar@nymag.com",
+            "name": "PMO Calendar",
+            "sn": "Calendar"
+        },
+        {
+            "mail": "PMO2.Calendar@nymag.com",
+            "name": "PMO2 Calendar",
+            "sn": "Calendar"
+        },
+        {
+            "telephonenumber": "212-508-0649",
+            "mail": "Connor.Kilpatrick@nymag.com",
+            "name": "Kilpatrick, Connor",
+            "sn": "Kilpatrick"
+        },
+        {
+            "telephonenumber": "212-508-0681",
+            "mail": "Nick.Sywak@nymag.com",
+            "name": "Sywak, Nick",
+            "sn": "Sywak"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0678",
+            "mail": "Joann.Manigo@nymag.com",
+            "name": "Manigo, Joann",
+            "sn": "Manigo"
+        },
+        {
+            "mail": "rsvp.newyork@nymag.com",
+            "name": "RSVP New York",
+            "sn": "newyork"
+        },
+        {
+            "mail": "Twitter.NYMAG@nymag.com",
+            "name": "Twitter NYMAG",
+            "sn": "NYMAG"
+        },
+        {
+            "mail": "Soap.Box@nymag.com",
+            "name": "Box, Soap",
+            "sn": "Box"
+        },
+        {
+            "mail": "hr@nymag.com",
+            "name": "User, Hr",
+            "sn": "User"
+        },
+        {
+            "mail": "HR.Webphoto@nymag.com",
+            "name": "Webphoto, HR",
+            "sn": "Webphoto"
+        },
+        {
+            "telephonenumber": "212-508-0646",
+            "mail": "Steve.Motzenbecker@nymag.com",
+            "name": "Motzenbecker, Steve",
+            "sn": "Motzenbecker"
+        },
+        {
+            "mail": "Twitter.NewYorkMag@nymag.com",
+            "name": "Twitter NewYorkMag",
+            "sn": "NewYorkMag"
+        },
+        {
+            "mail": "Fashion.Jobs@nymag.com",
+            "name": "Jobs, Fashion",
+            "sn": "Jobs"
+        },
+        {
+            "telephonenumber": "212-508-0523",
+            "mail": "Mark.Jacobson@nymag.com",
+            "name": "Jacobson, Mark",
+            "sn": "Jacobson"
+        },
+        {
+            "mail": "nym.Weddings@nymag.com",
+            "name": "Weddings, nym",
+            "sn": "Weddings"
+        },
+        {
+            "mail": "thecut@nymag.com",
+            "name": "cut, the",
+            "sn": "cut"
+        },
+        {
+            "mail": "Jared.Kanter@nymag.com",
+            "name": "Kanter, Jared",
+            "sn": "Kanter"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0870",
+            "mail": "Marc.Johnson@nymag.com",
+            "name": "Johnson, Marc",
+            "sn": "Johnson"
+        },
+        {
+            "mail": "payformance@nymag.com",
+            "name": "Payformance"
+        },
+        {
+            "telephonenumber": "212-508-0765",
+            "mail": "Kelli.Berkovitz@nymag.com",
+            "name": "Berkovitz, Kelli",
+            "sn": "Berkovitz"
+        },
+        {
+            "mail": "Scott.Selikoff@nymag.com",
+            "name": "Selikoff, Scott",
+            "sn": "Selikoff"
+        },
+        {
+            "telephonenumber": "(212) 508-0613",
+            "mail": "Kevin.Barnett@nymag.com",
+            "name": "Barnett, Kevin",
+            "sn": "Barnett"
+        },
+        {
+            "mail": "Marketplace@nymag.com",
+            "name": "Marketplace",
+            "sn": "Marketplace"
+        },
+        {
+            "telephonenumber": "212-508-0727",
+            "mail": "Jock.Agorastos@nymag.com",
+            "name": "Agorastos, Jock",
+            "sn": "Agorastos"
+        },
+        {
+            "telephonenumber": "212-508-0683",
+            "mail": "Bonnie.Cohen@nymag.com",
+            "name": "Cohen, Bonnie",
+            "sn": "Cohen"
+        },
+        {
+            "mail": "NYM.Edit1@nymag.com",
+            "name": "Edit1, NYM",
+            "sn": "Edit1"
+        },
+        {
+            "mail": "Julie.Steinberg@nymag.com",
+            "name": "Steinberg, Julie",
+            "sn": "Steinberg"
+        },
+        {
+            "mail": "WebPhoto2@nymag.com",
+            "name": "WebPhoto2"
+        },
+        {
+            "mail": "Theater.Listings@nymag.com",
+            "name": "Listings, Theater",
+            "sn": "Listings"
+        },
+        {
+            "mail": "Ellen.Wilk-Harris@nymag.com",
+            "name": "Wilk-Harris, Ellen",
+            "sn": "Wilk-Harris"
+        },
+        {
+            "mail": "surf@nymag.com",
+            "name": "Surf"
+        },
+        {
+            "mail": "party.lines@nymag.com",
+            "name": "Partylines",
+            "sn": "lines"
+        },
+        {
+            "telephonenumber": "212-508-0781",
+            "mail": "Lauren.Starke@nymag.com",
+            "name": "Starke, Lauren",
+            "sn": "Starke"
+        },
+        {
+            "telephonenumber": "212-508-0505",
+            "mail": "James.Lim@nymag.com",
+            "name": "Lim, James",
+            "sn": "Lim"
+        },
+        {
+            "mail": "Theater.Critic@nymag.com",
+            "name": "Critic, Theater",
+            "sn": "Critic"
+        },
+        {
+            "mail": "User.photosfashion@nymag.com",
+            "name": "photosfashion, User",
+            "sn": "photosfashion"
+        },
+        {
+            "mail": "wai.lo@nymag.com",
+            "name": "Lo, Wai",
+            "sn": "Lo"
+        },
+        {
+            "telephonenumber": "212-508-0890",
+            "mail": "photo.desk@nymag.com",
+            "name": "Intern, Photo",
+            "sn": "Photo"
+        },
+        {
+            "telephonenumber": "212-508-0742",
+            "mail": "Colin.Flanagan@nymag.com",
+            "name": "Flanagan, Colin",
+            "sn": "Flanagan"
+        },
+        {
+            "mail": "Prod.Webjobs@nymag.com",
+            "name": "Webjobs, Prod",
+            "sn": "Webjobs"
+        },
+        {
+            "mail": "Leah.Koenig@nymag.com",
+            "name": "Koenig, Leah",
+            "sn": "Koenig"
+        },
+        {
+            "mail": "NYM.Images@nymag.com",
+            "name": "Images, NYM",
+            "sn": "Images"
+        },
+        {
+            "telephonenumber": "212-508-0811",
+            "mail": "Robert.Kolker@nymag.com",
+            "name": "Kolker, Robert",
+            "sn": "Kolker"
+        },
+        {
+            "telephonenumber": "212-508-0693",
+            "mail": "Marisa.Woocher@nymag.com",
+            "name": "Woocher, Marisa",
+            "sn": "Woocher"
+        },
+        {
+            "mail": "WebPhoto1@nymag.com",
+            "name": "WebPhoto1"
+        },
+        {
+            "telephonenumber": "212-508-0743",
+            "mail": "Melissa.Hom@nymag.com",
+            "name": "Hom, Melissa",
+            "sn": "Hom"
+        },
+        {
+            "mail": "Sales.Listings@nymag.com",
+            "name": "Sales Listings",
+            "sn": "Listings"
+        },
+        {
+            "mail": "NYM.Commenting@nymag.com",
+            "name": "Commenting, NYM",
+            "sn": "Commenting"
+        },
+        {
+            "telephonenumber": "(212) 508-0645",
+            "mail": "Brian.Ormsbee@nymag.com",
+            "name": "Ormsbee, Brian",
+            "sn": "Ormsbee"
+        },
+        {
+            "mail": "myfirstny@nymag.com",
+            "name": "MyFirstNY"
+        },
+        {
+            "mail": "Twitter.MenuPages@nymag.com",
+            "name": "Twitter MenuPages",
+            "sn": "MenuPages"
+        },
+        {
+            "telephonenumber": "212-508-0673",
+            "mail": "Adam.Platt@nymag.com",
+            "name": "Platt, Adam",
+            "sn": "Platt"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0801",
+            "mail": "backissues@nymag.com",
+            "name": "backissues"
+        },
+        {
+            "telephonenumber": "212-508-0792",
+            "mail": "Lane.Brown@nymag.com",
+            "name": "Brown, Lane",
+            "sn": "Brown"
+        },
+        {
+            "telephonenumber": "212-508-0763",
+            "mail": "Jessica.Pressler@nymag.com",
+            "name": "Pressler, Jessica",
+            "sn": "Pressler"
+        },
+        {
+            "mail": "Will.Leitch@nymag.com",
+            "name": "Leitch, Will",
+            "sn": "Leitch"
+        },
+        {
+            "mail": "Lindsay.Robertson@nymag.com",
+            "name": "Robertson, Lindsay",
+            "sn": "Robertson"
+        },
+        {
+            "telephonenumber": "212-508-0808",
+            "mail": "Joe.Hagan@nymag.com",
+            "name": "Hagan, Joe",
+            "sn": "Hagan"
+        },
+        {
+            "mail": "ScrumRoom.Calendar@nymag.com",
+            "name": "Scrum Room Calendar",
+            "sn": "Calendar"
+        },
+        {
+            "telephonenumber": "212-508-0845",
+            "mail": "Chris_Smith@newyorkmag.com",
+            "name": "Smith, Chris",
+            "sn": "Smith"
+        },
+        {
+            "mail": "Design.Jobs@nymag.com",
+            "name": "Design Jobs",
+            "sn": "Jobs"
+        },
+        {
+            "mail": "vulture@nymag.com",
+            "name": "Vulture Blog"
+        },
+        {
+            "mail": "freelance@nymag.com",
+            "name": "Freelance"
+        },
+        {
+            "mail": "K4.Service@nymag.com",
+            "name": "Service, K4",
+            "sn": "Service"
+        },
+        {
+            "mail": "Vanessa.Grigoriadis@nymag.com",
+            "name": "Grigoriadis, Vanessa",
+            "sn": "Grigoriadis"
+        },
+        {
+            "telephonenumber": "212-508-0583",
+            "mail": "Amy.Larocca@nymag.com",
+            "name": "Larocca, Amy",
+            "sn": "Larocca"
+        },
+        {
+            "telephonenumber": "212-508-0778",
+            "mail": "Rob.Patronite@nymag.com",
+            "name": "Patronite, Rob",
+            "sn": "Patronite"
+        },
+        {
+            "telephonenumber": "212-508-0777",
+            "mail": "Robin.Raisfeld@nymag.com",
+            "name": "Raisfeld, Robin",
+            "sn": "Raisfeld"
+        },
+        {
+            "mail": "Jennifer.Senior@nymag.com",
+            "name": "Senior, Jen",
+            "sn": "Senior"
+        },
+        {
+            "telephonenumber": "212-508-0794",
+            "mail": "Gillian.Duffy@nymag.com",
+            "name": "Duffy, Gillian",
+            "sn": "Duffy"
+        },
+        {
+            "telephonenumber": "212-508-0798",
+            "mail": "Jhoanna.Robledo@nymag.com",
+            "name": "Robledo, Jhoanna",
+            "sn": "Robledo"
+        },
+        {
+            "telephonenumber": "212-508-0524",
+            "mail": "David.Edelstein@nymag.com",
+            "name": "Edelstein, David",
+            "sn": "Edelstein"
+        },
+        {
+            "telephonenumber": "212-508-0770",
+            "mail": "Jerry.Saltz@nymag.com",
+            "name": "Saltz, Jerry",
+            "sn": "Saltz"
+        },
+        {
+            "telephonenumber": "212-508-0825",
+            "mail": "edel.Davidson@nymag.com",
+            "name": "Davidson, Justin",
+            "sn": "Davidson"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0676",
+            "mail": "Kaitlin.Jessing-Butz@nymag.com",
+            "name": "Jessing-Butz, Kaitlin",
+            "sn": "Jessing-Butz"
+        },
+        {
+            "telephonenumber": "212-508-0501",
+            "mail": "Wendy.Goodman@nymag.com",
+            "name": "Goodman, Wendy",
+            "sn": "Goodman"
+        },
+        {
+            "telephonenumber": "212-508-0569",
+            "mail": "carolyn.murnick@nymag.com",
+            "name": "Murnick, Carolyn",
+            "sn": "Murnick"
+        },
+        {
+            "mail": "Jesse.Green@nymag.com",
+            "name": "Green, Jesse",
+            "sn": "Green"
+        },
+        {
+            "mail": "Alex.Morris@nymag.com",
+            "name": "Morris, Alex",
+            "sn": "Morris"
+        },
+        {
+            "telephonenumber": "212-508-0851",
+            "mail": "gabriel.sherman@nymag.com",
+            "name": "Sherman, Gabriel",
+            "sn": "Sherman"
+        },
+        {
+            "mail": "Christine.Whitney@nymag.com",
+            "name": "Whitney, Christine",
+            "sn": "Whitney"
+        },
+        {
+            "telephonenumber": "212-508-0647",
+            "mail": "Eric.Benson@nymag.com",
+            "name": "Benson, Eric",
+            "sn": "Benson"
+        },
+        {
+            "telephonenumber": "212-508-0732",
+            "mail": "Fashion.Assistant@nymag.com",
+            "name": "Assistant, Fashion",
+            "sn": "Assistant"
+        },
+        {
+            "mail": "Design.Calendar@nymag.com",
+            "name": "Calendar, Design",
+            "sn": "Calendar"
+        },
+        {
+            "mail": "StrictlyPersonals@nymag.com",
+            "name": "Strictly Personals",
+            "sn": "Strictly Personals"
+        },
+        {
+            "telephonenumber": "212-508-0604",
+            "mail": "Vanita.Salisbury@nymag.com",
+            "name": "Salisbury, Vanita",
+            "sn": "Salisbury"
+        },
+        {
+            "mail": "Josh.Wolk@vulture.com",
+            "name": "Wolk, Josh",
+            "sn": "Wolk"
+        },
+        {
+            "mail": "Promo.Intern@nymag.com",
+            "name": "Intern, Promo",
+            "sn": "Intern"
+        },
+        {
+            "mail": "Music.Listings@nymag.com",
+            "name": "Listings, Music",
+            "sn": "Listings"
+        },
+        {
+            "mail": "Online.Invoices@nymag.com",
+            "name": "Online Invoices",
+            "sn": "Invoices"
+        },
+        {
+            "mail": "Letters.1@nymag.com",
+            "name": "1, Letters",
+            "sn": "1"
+        },
+        {
+            "mail": "nymjobs@nymag.com",
+            "name": "nymjobs"
+        },
+        {
+            "mail": "_ServiceBlackberry@nymag.com",
+            "name": "Service- Blackberry"
+        },
+        {
+            "mail": "filmcritic@nymag.com",
+            "name": "FilmCritic"
+        },
+        {
+            "mail": "movies@nymag.com",
+            "name": "Movies"
+        },
+        {
+            "mail": "Media.Trends@nymag.com",
+            "name": "Trends, Media",
+            "sn": "Trends"
+        },
+        {
+            "mail": "Events.Creative@nymag.com",
+            "name": "Creative, Events",
+            "sn": "Creative"
+        },
+        {
+            "mail": "sexdiaries@nymag.com",
+            "name": "sexdiaries"
+        },
+        {
+            "mail": "newyorkshop@nymag.com",
+            "name": "Newyorkshop"
+        },
+        {
+            "mail": "Art.Listings@nymag.com",
+            "name": "Listings, Art",
+            "sn": "Listings"
+        },
+        {
+            "mail": "Nightlife.Listings@nymag.com",
+            "name": "Listings, Nightlife",
+            "sn": "Listings"
+        },
+        {
+            "mail": "word.Listings@nymag.com",
+            "name": "Listings, Word",
+            "sn": "Listings"
+        },
+        {
+            "mail": "sports.section@nymag.com",
+            "name": "section, sports",
+            "sn": "section"
+        },
+        {
+            "mail": "kids.listings@nymag.com",
+            "name": "Kids Listings",
+            "sn": "listings"
+        },
+        {
+            "mail": "NYM.Events@nymag.com",
+            "name": "Events, NYM",
+            "sn": "Events"
+        },
+        {
+            "mail": "NewYork.Events@nymag.com",
+            "name": "Events, New York",
+            "sn": "Events"
+        },
+        {
+            "mail": "video@nymag.com",
+            "name": "Video"
+        },
+        {
+            "mail": "Sem.Cm@nymag.com",
+            "name": "Cm, Sem",
+            "sn": "Cm"
+        },
+        {
+            "mail": "Political.Fictions@nymag.com",
+            "name": "Political Fictions",
+            "sn": "Fictions"
+        },
+        {
+            "mail": "beexec@nymag.com",
+            "name": "BEEXEC"
+        },
+        {
+            "mail": "VultureListings@nymag.com",
+            "name": "VultureListings"
+        },
+        {
+            "mail": "BESAdmin@nymag.com",
+            "name": "BESAdmin"
+        },
+        {
+            "telephonenumber": "212-508-0652",
+            "mail": "Chris.Garay@nymag.com",
+            "name": "Garay, Chris",
+            "sn": "Garay"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0043",
+            "mail": "Alicia.Kennedy@nymag.com",
+            "name": "Kennedy, Alicia",
+            "sn": "Kennedy"
+        },
+        {
+            "mail": "symantec@nymag.com",
+            "name": "symantec"
+        },
+        {
+            "mail": "iphone@nymag.com",
+            "name": "IPhone"
+        },
+        {
+            "mail": "Rich.Cappelluti@nymag.com",
+            "name": "Cappelluti, Rich",
+            "sn": "Cappelluti"
+        },
+        {
+            "mail": "rsvp@nymag.com",
+            "name": "rsvp"
+        },
+        {
+            "mail": "Commvault.Admin@nymag.com",
+            "name": "Commvault Admin",
+            "sn": "Admin"
+        },
+        {
+            "telephonenumber": "212-508-0676",
+            "mail": "contactus@nymag.com",
+            "name": "Contactus"
+        },
+        {
+            "mail": "tester2@nymag.com",
+            "name": "Dan  Tester2",
+            "sn": "Tester2"
+        },
+        {
+            "mail": "tester3@nymag.com",
+            "name": "Jared  Tester3",
+            "sn": "Tester3"
+        },
+        {
+            "mail": "tester4@nymag.com",
+            "name": "Bart  Tester4",
+            "sn": "Tester4"
+        },
+        {
+            "mail": "tester6@nymag.com",
+            "name": "Ian  Tester6",
+            "sn": "Tester6"
+        },
+        {
+            "mail": "tester7@nymag.com",
+            "name": "Kelly  Tester7",
+            "sn": "Tester7"
+        },
+        {
+            "mail": "tester8@nymag.com",
+            "name": "Hal  Tester8",
+            "sn": "Tester8"
+        },
+        {
+            "mail": "tester9@nymag.com",
+            "name": "Vik  Tester9",
+            "sn": "Tester9"
+        },
+        {
+            "mail": "tester11@nymag.com",
+            "name": "Chris  Tester11",
+            "sn": "Tester11"
+        },
+        {
+            "mail": "tester12@nymag.com",
+            "name": "Libby  Tester12",
+            "sn": "Tester12"
+        },
+        {
+            "mail": "tester14@nymag.com",
+            "name": "Brian  Tester14",
+            "sn": "Tester14"
+        },
+        {
+            "mail": "tester15@nymag.com",
+            "name": "Ed  Tester15",
+            "sn": "Tester15"
+        },
+        {
+            "telephonenumber": "212-508-0555",
+            "mail": "Satish.Jadhav@nymag.com",
+            "name": "Jadhav, Satish",
+            "sn": "Jadhav"
+        },
+        {
+            "mail": "tester@nymag.com",
+            "name": "tester"
+        },
+        {
+            "mail": "surya.lamtech@day.com",
+            "name": "Lamech, Surya",
+            "sn": "Lamech"
+        },
+        {
+            "mail": "member-issues@nymag.com",
+            "name": "issues, member",
+            "sn": "issues"
+        },
+        {
+            "telephonenumber": "212-508-0867",
+            "mail": "Jeanette.Galloway@nymag.com",
+            "name": "Galloway, Jeanette",
+            "sn": "Galloway"
+        },
+        {
+            "mail": "Josh.Oransky@nymag.com",
+            "name": "Oransky, Josh",
+            "sn": "Oransky"
+        },
+        {
+            "mail": "Matthew.Giles@nymag.com",
+            "name": "Giles, Matthew",
+            "sn": "Giles"
+        },
+        {
+            "telephonenumber": "212-508-0064",
+            "mail": "Josef.Adalian@vulture.com",
+            "name": "Adalian, Joe",
+            "sn": "Adalian"
+        },
+        {
+            "mail": "rooftops@nymag.com",
+            "name": "Rooftops"
+        },
+        {
+            "mail": "IT@nymag.com",
+            "name": "IT"
+        },
+        {
+            "mail": "twittervultureblog@nymag.com",
+            "name": "Twitter VultureBlog",
+            "sn": "VultureBlog"
+        },
+        {
+            "mail": "photoadmin@nymag.com",
+            "name": "Admin, Photo",
+            "sn": "Admin"
+        },
+        {
+            "mail": "Alex.Rees@nymag.com",
+            "name": "Rees, Alex",
+            "sn": "Rees"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0579",
+            "mail": "Anna.Suarez@nymag.com",
+            "name": "Suarez, Anna V.",
+            "sn": "Suarez"
+        },
+        {
+            "mail": "vulturelive@nymag.com",
+            "name": "vulturelive"
+        },
+        {
+            "mail": "screenings@nymag.com",
+            "name": "screenings"
+        },
+        {
+            "mail": "artdept.jobs@nymag.com",
+            "name": "jobs, artdept",
+            "sn": "jobs"
+        },
+        {
+            "mail": "foursquare@nymag.com",
+            "name": "Foursquare"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0591",
+            "mail": "Roxanne.Behr@nymag.com",
+            "name": "Behr, Roxanne",
+            "sn": "Behr"
+        },
+        {
+            "telephonenumber": "212-508-0061",
+            "mail": "Jane.Saffell@nymag.com",
+            "name": "Saffell, Jane",
+            "sn": "Saffell"
+        },
+        {
+            "telephonenumber": "212-508-0719",
+            "mail": "Sam.Lee@nymag.com",
+            "name": "Lee, Sam",
+            "sn": "Lee"
+        },
+        {
+            "mail": "Larry.Jacobson@nymag.com",
+            "name": "Jacobson, Larry",
+            "sn": "Jacobson"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0586",
+            "mail": "Marlow.Riley@nymag.com",
+            "name": "Riley, Marlow",
+            "sn": "Riley"
+        },
+        {
+            "mail": "Amit.Palve@nymag.com",
+            "name": "Palve, Amit",
+            "sn": "Palve"
+        },
+        {
+            "mail": "Freelance.Designer@nymag.com",
+            "name": "Designer, Freelance",
+            "sn": "Designer"
+        },
+        {
+            "telephonenumber": "212-508-0552",
+            "mail": "David.Bressler@nymag.com",
+            "name": "Bressler, David",
+            "sn": "Bressler"
+        },
+        {
+            "mail": "Anastasia.Senenko@nymag.com",
+            "name": "Senenko, Anastasia",
+            "sn": "Senenko"
+        },
+        {
+            "mail": "adsales@nymag.com",
+            "name": "adsales"
+        },
+        {
+            "mail": "confluence@nymag.com",
+            "name": "confluence"
+        },
+        {
+            "telephonenumber": "212-508-0703",
+            "mail": "Megan.Shannon@nymag.com",
+            "name": "Shannon, Megan",
+            "sn": "Shannon"
+        },
+        {
+            "mail": "ameyh@nymag.com",
+            "name": "Haldankar, Amey",
+            "sn": "Haldankar"
+        },
+        {
+            "telephonenumber": "212-508-0514",
+            "mail": "Jaime.Fuller@nymag.com",
+            "name": "Fuller, Jaime",
+            "sn": "Fuller"
+        },
+        {
+            "mail": "shopwalk@nymag.com",
+            "name": "shopwalk"
+        },
+        {
+            "telephonenumber": "212-508-0450",
+            "mail": "Emily.Watkins@nymag.com",
+            "name": "Watkins, Emily",
+            "sn": "Watkins"
+        },
+        {
+            "telephonenumber": "212-508-0690",
+            "mail": "Adrienne.Waun@nymag.com",
+            "name": "Waun, Adrienne",
+            "sn": "Waun"
+        },
+        {
+            "mail": "fashionweekphotos@nymag.com",
+            "name": "Photos, Fashion Week",
+            "sn": "Photos"
+        },
+        {
+            "telephonenumber": "212-508-0064",
+            "mail": "Kyle.Buchanan@vulture.com",
+            "name": "Buchanan, Kyle",
+            "sn": "Buchanan"
+        },
+        {
+            "mail": "webphoto3@nymag.com",
+            "name": "webphoto3"
+        },
+        {
+            "mail": "artcritic@nymag.com",
+            "name": "artcritic"
+        },
+        {
+            "mail": "Jada.Wong@nymag.com",
+            "name": "Wong, Jada",
+            "sn": "Wong"
+        },
+        {
+            "telephonenumber": "212-508-0706",
+            "mail": "Alan.Sytsma@nymag.com",
+            "name": "Sytsma, Alan",
+            "sn": "Sytsma"
+        },
+        {
+            "mail": "Nitsuh.Abebe@nymag.com",
+            "name": "Abebe, Nitsuh",
+            "sn": "Abebe"
+        },
+        {
+            "telephonenumber": "212-508-0885",
+            "mail": "Andy.Outis@nymag.com",
+            "name": "Outis, Andy",
+            "sn": "Outis"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0726",
+            "mail": "Tim.Conyers@nymag.com",
+            "name": "Conyers, Tim",
+            "sn": "Conyers"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0555",
+            "mail": "AdBase@nymag.com",
+            "name": "DataTransfer, AdBase",
+            "sn": "DataTransfer"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0700",
+            "mail": "Daisy.Irizarry@nymag.com",
+            "name": "Daisy Irizarry",
+            "sn": "Irizarry"
+        },
+        {
+            "mail": "ljacobson-rt@nymag.com",
+            "name": "ljacobson-rt"
+        },
+        {
+            "mail": "nymagadmin@nymag.com",
+            "name": "nymagadmin"
+        },
+        {
+            "telephonenumber": "212-508-0580",
+            "mail": "Raha.Naddaf@nymag.com",
+            "name": "Naddaf, Raha",
+            "sn": "Naddaf"
+        },
+        {
+            "telephonenumber": "212-508-0712",
+            "mail": "Konstantin.Sergeyev@nymag.com",
+            "name": "Sergeyev, Konstantin",
+            "sn": "Sergeyev"
+        },
+        {
+            "mail": "product-jobs@nymag.com",
+            "name": "product-jobs"
+        },
+        {
+            "telephonenumber": "212-508-0705",
+            "mail": "Georges.Labreche@nymag.com",
+            "name": "Labreche, Georges",
+            "sn": "Labreche"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0754",
+            "mail": "fm@nymag.com",
+            "name": "Mejia, Freddy",
+            "sn": "Mejia"
+        },
+        {
+            "mail": "ProdJobs@nymag.com",
+            "name": "Jobs, Prod",
+            "sn": "Jobs"
+        },
+        {
+            "mail": "killspammer@nymag.com",
+            "name": "KillSpammer",
+            "sn": "Spammer"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0612",
+            "mail": "Vadim.Kern@nymag.com",
+            "name": "Kern, Vadim",
+            "sn": "Kern"
+        },
+        {
+            "telephonenumber": "212-508-0574",
+            "mail": "Alexa.Reay@nymag.com",
+            "name": "Reay, Alexa",
+            "sn": "Tsoulis-Reay"
+        },
+        {
+            "mail": "uxipad@nymag.com",
+            "name": "uxipad"
+        },
+        {
+            "mail": "am@nymag.com",
+            "name": "Adam"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0555",
+            "mail": "NYMag.Helpdesk@nymag.com",
+            "name": "Helpdesk, NYMag",
+            "sn": "Helpdesk"
+        },
+        {
+            "mail": "nym.problems@nymag.com",
+            "name": "problems, nym",
+            "sn": "problems"
+        },
+        {
+            "mail": "nym.best@nymag.com",
+            "name": "best, nym",
+            "sn": "best"
+        },
+        {
+            "mail": "PMOJobs@nymag.com",
+            "name": "Jobs, PMO",
+            "sn": "Jobs"
+        },
+        {
+            "mail": "Ilya.Mestnikov@nymag.com",
+            "name": "Mestnikov, Ilya",
+            "sn": "Mestnikov"
+        },
+        {
+            "mail": "Andrey.Karasev@nymag.com",
+            "name": "Karasev, Andrey",
+            "sn": "Karasev"
+        },
+        {
+            "mail": "Jason.Zengerle@nymag.com",
+            "name": "Zengerle, Jason",
+            "sn": "Zengerle"
+        },
+        {
+            "mail": "twittertheapprovalmatrix@nymag.com",
+            "name": "Theapprovalmatrix, Twitter",
+            "sn": "Theapprovalmatrix"
+        },
+        {
+            "mail": "Nymappmatrixtv.Twitter@nymag.com",
+            "name": "Twitter, Nymappmatrixtv",
+            "sn": "Twitter"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0635",
+            "mail": "Eve.Taylor@nymag.com",
+            "name": "Taylor, Eve",
+            "sn": "Taylor"
+        },
+        {
+            "telephonenumber": "212-508-0895",
+            "mail": "Frank.Rich@nymag.com",
+            "name": "Rich, Frank",
+            "sn": "Rich"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0597",
+            "mail": "av@nymag.com",
+            "name": "Volovik, Alex",
+            "sn": "Volovik"
+        },
+        {
+            "mail": "Dan.Lee@nymag.com",
+            "name": "Lee, Dan",
+            "sn": "Lee"
+        },
+        {
+            "telephonenumber": "212-508-0654",
+            "mail": "Ben.Wells@nymag.com",
+            "name": "Wallace-Wells, Benjamin",
+            "sn": "Wallace-Wells"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0897",
+            "mail": "Omololu.King@nymag.com",
+            "name": "King, Omololu",
+            "sn": "King"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0544",
+            "mail": "Margaret.Lyons@Vulture.com",
+            "name": "Lyons, Margaret",
+            "sn": "Lyons"
+        },
+        {
+            "mail": "MSExchApproval1f05a927-3be2-4fb9-aa03-b59fe3b56f4c@nymag.com",
+            "name": "SystemMailbox{1f05a927-9df2-4f11-842a-2dc8a7e45da5}",
+            "sn": "MSExchApproval 1f05a927-3be2-4fb9-aa03-b59fe3b56f4c"
+        },
+        {
+            "mail": "MsExchDiscoverye0dc1c29-89c3-4034-b678-e6c29d823ed9@nymag.com",
+            "name": "SystemMailbox{e0dc1c29-89c3-4034-b678-e6c29d823ed9}",
+            "sn": "MsExchDiscovery e0dc1c29-89c3-4034-b678-e6c29d823ed9"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0534",
+            "mail": "David.Wallace-Wells@nymag.com",
+            "name": "Wallace-Wells, David",
+            "sn": "Wallace-Wells"
+        },
+        {
+            "telephonenumber": "212-508-0771",
+            "mail": "Alvin.Lee@nymag.com",
+            "name": "Lee, Alvin",
+            "sn": "Lee"
+        },
+        {
+            "mail": "DealsPartners@nymag.com",
+            "name": "DealsPartners"
+        },
+        {
+            "mail": "Deals@nymag.com",
+            "name": "Deals"
+        },
+        {
+            "telephonenumber": "212-508-0632",
+            "mail": "Lisa.Miller@nymag.com",
+            "name": "Miller, Lisa",
+            "sn": "Miller"
+        },
+        {
+            "mail": "nym.ipad@nymag.com",
+            "name": "ipad, nym",
+            "sn": "ipad"
+        },
+        {
+            "telephonenumber": "212-508-0657",
+            "mail": "Benjamin.Wallace@nymag.com",
+            "name": "Wallace, Benjamin",
+            "sn": "Wallace"
+        },
+        {
+            "mail": "FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042@nymag.com",
+            "name": "FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042",
+            "sn": "FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042"
+        },
+        {
+            "mail": "Scan.User@nymag.com",
+            "name": "User, Scan",
+            "sn": "User"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0896",
+            "mail": "Sunil.Gopinath@nymag.com",
+            "name": "Gopinath, Sunil",
+            "sn": "Gopinath"
+        },
+        {
+            "mail": "Sarah.Harrison@nymag.com",
+            "name": "Harrison, Sarah",
+            "sn": "Harrison"
+        },
+        {
+            "telephonenumber": "212-508-0652",
+            "mail": "Sarah.Ruddy@nymag.com",
+            "name": "Ruddy, Sarah",
+            "sn": "Ruddy"
+        },
+        {
+            "mail": "Ask.FrankRich@nymag.com",
+            "name": "Ask FrankRich",
+            "sn": "FrankRich"
+        },
+        {
+            "telephonenumber": "212-508-0746",
+            "mail": "MaryJane.Weedman@nymag.com",
+            "name": "Weedman, MaryJane",
+            "sn": "Weedman"
+        },
+        {
+            "telephonenumber": "212-508-0839",
+            "mail": "Diana.Morel@nymag.com",
+            "name": "Valentin, Diana",
+            "sn": "Valentin"
+        },
+        {
+            "mail": "Julie.Doherty-Meade@nymag.com",
+            "name": "Doherty-Meade, Julie",
+            "sn": "Doherty-Meade"
+        },
+        {
+            "mail": "uxia-jobs@nymag.com",
+            "name": "uxia-jobs"
+        },
+        {
+            "mail": "Mike.Robinson@nymag.com",
+            "name": "Robinson, Mike",
+            "sn": "Robinson"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0881",
+            "mail": "HRIntern@nymag.com",
+            "name": "HRIntern"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0878",
+            "mail": "Tammy.Scozzafava@nymag.com",
+            "name": "Scozzafava, Tammy",
+            "sn": "Scozzafava"
+        },
+        {
+            "mail": "Alyssa.Shelasky@nymag.com",
+            "name": "Shelasky, Alyssa",
+            "sn": "Shelasky"
+        },
+        {
+            "mail": "payroll@nymag.com",
+            "name": "payroll"
+        },
+        {
+            "mail": "Caroline.Bankoff@nymag.com",
+            "name": "Bankoff, Caroline",
+            "sn": "Bankoff"
+        },
+        {
+            "mail": "spotlightsweeps@nymag.com",
+            "name": "spotlightsweeps"
+        },
+        {
+            "mail": "Maya.Robinson@nymag.com",
+            "name": "Robinson, Maya",
+            "sn": "Robinson"
+        },
+        {
+            "mail": "FSOCalendar@nymag.com",
+            "name": "FSOCalendar"
+        },
+        {
+            "mail": "Jonathan.Chait@nymag.com",
+            "name": "Chait, Jonathan",
+            "sn": "Chait"
+        },
+        {
+            "telephonenumber": "212-508-0609",
+            "mail": "Kristen.Dudish@nymag.com",
+            "name": "Dudish, Kristen",
+            "sn": "Dudish"
+        },
+        {
+            "telephonenumber": "212-508-0698",
+            "mail": "Miranda.Dempster@nymag.com",
+            "name": "Dempster, Miranda",
+            "sn": "Dempster"
+        },
+        {
+            "telephonenumber": "212-508-0659",
+            "mail": "Elizabeth.Sturgis@nymag.com",
+            "name": "Sturgis, Elizabeth",
+            "sn": "Sturgis"
+        },
+        {
+            "mail": "kindleaccount@nymag.com",
+            "name": "kindleaccount"
+        },
+        {
+            "mail": "Comm.Vault@nymag.com",
+            "name": "Vault, Comm",
+            "sn": "Vault"
+        },
+        {
+            "telephonenumber": "212-508-0610",
+            "mail": "Sue.Bohlen@nymag.com",
+            "name": "Bohlen, Sue",
+            "sn": "Bohlen"
+        },
+        {
+            "mail": "Malcolm.Nicholson@nymag.com",
+            "name": "Nicholson, Malcolm",
+            "sn": "Nicholson"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0540",
+            "mail": "Larry.Chevres@nymag.com",
+            "name": "Chevres, Larry",
+            "sn": "Chevres"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0773",
+            "mail": "Henry.Cordoba@nymag.com",
+            "name": "Cordoba, Henry",
+            "sn": "Cordoba"
+        },
+        {
+            "mail": "Marc.Bailes@nymag.com",
+            "name": "Bailes, Marc",
+            "sn": "Bailes"
+        },
+        {
+            "mail": "Melanie.Barnes@nymag.com",
+            "name": "Barnes, Melanie",
+            "sn": "Barnes"
+        },
+        {
+            "mail": "CreativeFreelance@nymag.com",
+            "name": "CreativeFreelance"
+        },
+        {
+            "telephonenumber": "212-508-0594",
+            "mail": "Stella.Bugbee@nymag.com",
+            "name": "Bugbee, Stella",
+            "sn": "Bugbee"
+        },
+        {
+            "mail": "oneshortdaysweeps@nymag.com",
+            "name": "oneshortdaysweeps"
+        },
+        {
+            "mail": "Clint.Rainey@nymag.com",
+            "name": "Clint Rainey",
+            "sn": "Rainey"
+        },
+        {
+            "telephonenumber": "212-508-0658",
+            "mail": "Matt.ZollerSeitz@nymag.com",
+            "name": "Zoller Seitz, Matt",
+            "sn": "Zoller Seitz"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0555",
+            "mail": "Edwin.Frias@nymag.com",
+            "name": "Frias, Edwin",
+            "sn": "Frias"
+        },
+        {
+            "telephonenumber": "212-508-0836",
+            "mail": "Thomas.Alberty@nymag.com",
+            "name": "Alberty, Tom",
+            "sn": "Alberty"
+        },
+        {
+            "mail": "advertisingsalesjob@nymag.com",
+            "name": "advertisingsalesjob"
+        },
+        {
+            "telephonenumber": "212-508-0549",
+            "mail": "Gabrielle.Koenig@nymag.com",
+            "name": "Koenig, Gabrielle",
+            "sn": "Koenig"
+        },
+        {
+            "telephonenumber": "212-508-0828",
+            "mail": "Sara.Brady@nymag.com",
+            "name": "Brady, Sara",
+            "sn": "Brady"
+        },
+        {
+            "mail": "fug.girl@nymag.com",
+            "name": "fug.girl"
+        },
+        {
+            "mail": "Jessica.Morgan@nymag.com",
+            "name": "Morgan, Jessica",
+            "sn": "Morgan"
+        },
+        {
+            "telephonenumber": "212-508-0641",
+            "mail": "Grace.Moon@nymag.com",
+            "name": "Moon, Grace",
+            "sn": "Moon"
+        },
+        {
+            "mail": "facteditor@nymag.com",
+            "name": "facteditor"
+        },
+        {
+            "telephonenumber": "1-212-508-0644",
+            "mail": "Marvin.Orellana@nymag.com",
+            "name": "Orellana, Marvin",
+            "sn": "Orellana"
+        },
+        {
+            "mail": "Kristin.Santosuosso@nymag.com",
+            "name": "Santosuosso, Kristin",
+            "sn": "Santosuosso"
+        },
+        {
+            "telephonenumber": "212-508-0852",
+            "mail": "Alex.Carp@nymag.com",
+            "name": "Carp, Alex",
+            "sn": "Carp"
+        },
+        {
+            "telephonenumber": "212-508-0817",
+            "mail": "Emily.Shornick@nymag.com",
+            "name": "Shornick, Emily",
+            "sn": "Shornick"
+        },
+        {
+            "telephonenumber": "212-508-8521",
+            "mail": "Miwa.Yagi@nymag.com",
+            "name": "Yagi, Miwa",
+            "sn": "Yagi"
+        },
+        {
+            "mail": "Alex.Yablon@nymag.com",
+            "name": "Yablon, Alex",
+            "sn": "Yablon"
+        },
+        {
+            "mail": "Margaret.Hartmann@nymag.com",
+            "name": "Hartmann, Margaret",
+            "sn": "Hartmann"
+        },
+        {
+            "mail": "Christi.Warren@nymag.com",
+            "name": "Warren, Christi",
+            "sn": "Warren"
+        },
+        {
+            "mail": "Spencer.Mandell@nymag.com",
+            "name": "Mandell, Spencer",
+            "sn": "Mandell"
+        },
+        {
+            "mail": "Hollyn.McManus@nymag.com",
+            "name": "McManus, Hollyn",
+            "sn": "McManus"
+        },
+        {
+            "mail": "Dan.Figura@nymag.com",
+            "name": "Figura, Dan",
+            "sn": "Figura"
+        },
+        {
+            "telephonenumber": "212-508-0577",
+            "mail": "Maureen.OConnor@nymag.com",
+            "name": "O'Connor, Maureen",
+            "sn": "O'Connor"
+        },
+        {
+            "mail": "Leah.Rodriguez@nymag.com",
+            "name": "Rodriguez, Leah",
+            "sn": "Rodriguez"
+        },
+        {
+            "mail": "pr-submissions@nymag.com",
+            "name": "pr-submissions"
+        },
+        {
+            "telephonenumber": "212-508-0789",
+            "mail": "Christian.Gloddy@nymag.com",
+            "name": "Gloddy, Christian",
+            "sn": "Gloddy"
+        },
+        {
+            "mail": "Rob.Campbell@nymag.com",
+            "name": "Campbell, Rob",
+            "sn": "Campbell"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0555",
+            "mail": "Open.Directory@nymag.com",
+            "name": "Directory, Open",
+            "sn": "Directory"
+        },
+        {
+            "telephonenumber": "212-508-0729",
+            "mail": "Nina.Stoller-Lindsey@nymag.com",
+            "name": "Stoller-Lindsey, Nina",
+            "sn": "Stoller-Lindsey"
+        },
+        {
+            "mail": "Intelligencer@nymag.com",
+            "name": "Intelligencer"
+        },
+        {
+            "mail": "Ruben.Candelario@nymag.com",
+            "name": "Candelario, Ruben",
+            "sn": "Candelario"
+        },
+        {
+            "telephonenumber": "212-508-0797",
+            "mail": "Sarah.Greis@nymag.com",
+            "name": "Greis, Sarah",
+            "sn": "Greis"
+        },
+        {
+            "telephonenumber": "212-508-0802",
+            "mail": "Jonann.Brady@nymag.com",
+            "name": "Brady, Jonann",
+            "sn": "Brady"
+        },
+        {
+            "telephonenumber": "212-508-0507",
+            "mail": "Rebecca.Ramsey@nymag.com",
+            "name": "Ramsey, Rebecca",
+            "sn": "Ramsey"
+        },
+        {
+            "mail": "fashionbugs@nymag.com",
+            "name": "fashionbugs"
+        },
+        {
+            "mail": "Kelley.Sullivan@nymag.com",
+            "name": "Sullivan, Kelley",
+            "sn": "Sullivan"
+        },
+        {
+            "mail": "thecutlaunch@nymag.com",
+            "name": "thecutlaunch"
+        },
+        {
+            "mail": "Rosana.Simons@nymag.com",
+            "name": "Simons, Rosana",
+            "sn": "Simons"
+        },
+        {
+            "mail": "cutphotointernship@nymag.com",
+            "name": "cutphotointernship"
+        },
+        {
+            "telephonenumber": "212-508-0571",
+            "mail": "Lauren.Blatter@nymag.com",
+            "name": "Blatter, Lauren",
+            "sn": "Blatter"
+        },
+        {
+            "telephonenumber": "212-508-0823",
+            "mail": "Jared.Schwartz@nymag.com",
+            "name": "Schwartz, Jared",
+            "sn": "Schwartz"
+        },
+        {
+            "mail": "newcut@nymag.com",
+            "name": "newcut"
+        },
+        {
+            "mail": "Veronica.Gledhill@nymag.com",
+            "name": "Gledhill, Veronica",
+            "sn": "Gledhill"
+        },
+        {
+            "mail": "NewYorkMediaPR@nymag.com",
+            "name": "NewYorkMediaPR"
+        },
+        {
+            "mail": "gracesweeps@nymag.com",
+            "name": "gracesweeps"
+        },
+        {
+            "mail": "askthecut@nymag.com",
+            "name": "askthecut"
+        },
+        {
+            "mail": "bizdevintern@nymag.com",
+            "name": "bizdevintern"
+        },
+        {
+            "telephonenumber": "212-508-0837",
+            "mail": "Julie.Jamerson@nymag.com",
+            "name": "Jamerson, Julie",
+            "sn": "Jamerson"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0731",
+            "mail": "Cristina.Revetria@nymag.com",
+            "name": "Revetria, Cristina",
+            "sn": "Revetria"
+        },
+        {
+            "mail": "James.Camp@nymag.com",
+            "name": "Camp, James",
+            "sn": "Camp"
+        },
+        {
+            "telephonenumber": "212-508-0587",
+            "mail": "Emily.Denniston@nymag.com",
+            "name": "Denniston, Emily",
+            "sn": "Denniston"
+        },
+        {
+            "mail": "Meg.Wachter@nymag.com",
+            "name": "Wachter, Meg",
+            "sn": "Wachter"
+        },
+        {
+            "telephonenumber": "212-508-0768",
+            "mail": "Lauren.Leibowitz@nymag.com",
+            "name": "Leibowitz, Lauren",
+            "sn": "Leibowitz"
+        },
+        {
+            "mail": "thecutshuttle@nymag.com",
+            "name": "The Cut Shuttle",
+            "sn": "Shuttle"
+        },
+        {
+            "telephonenumber": "212-508-0749",
+            "mail": "Jessica.Silvester@nymag.com",
+            "name": "Silvester, Jessica",
+            "sn": "Silvester"
+        },
+        {
+            "mail": "citymodern@nymag.com",
+            "name": "citymodern"
+        },
+        {
+            "mail": "audisweeps@nymag.com",
+            "name": "audisweeps"
+        },
+        {
+            "mail": "electionevent@nymag.com",
+            "name": "electionevent"
+        },
+        {
+            "mail": "Emma.Whitford@nymag.com",
+            "name": "Whitford, Emma",
+            "sn": "Whitford"
+        },
+        {
+            "mail": "editorialsubmissions@nymag.com",
+            "name": "editorialsubmissions"
+        },
+        {
+            "mail": "screening@nymag.com",
+            "name": "screening"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0555",
+            "mail": "William.Devore@nymag.com",
+            "name": "Devore, William",
+            "sn": "Devore"
+        },
+        {
+            "telephonenumber": "212-508-0725",
+            "mail": "Jesse.Fox@vulture.com",
+            "name": "Fox, Jesse",
+            "sn": "Fox"
+        },
+        {
+            "mail": "Scott.Li@nymag.com",
+            "name": "Li, Scott",
+            "sn": "Li"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0555",
+            "mail": "NYMITTech@nymag.com",
+            "name": "IT Technician, NYM",
+            "sn": "Technician"
+        },
+        {
+            "telephonenumber": "212-508-0568",
+            "mail": "Graham.Hagger@nymag.com",
+            "name": "Hagger, Graham",
+            "sn": "Hagger"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0555",
+            "mail": "macuser@nymag.com",
+            "name": "User, Mac",
+            "sn": "User"
+        },
+        {
+            "mail": "iostestuser@nymag.com",
+            "name": "iostestuser"
+        },
+        {
+            "mail": "gutbust@grubstreet.com",
+            "name": "gutbust"
+        },
+        {
+            "mail": "Alix.Henick@nymag.com",
+            "name": "Henick, Alix",
+            "sn": "Henick"
+        },
+        {
+            "telephonenumber": "212-508-0814",
+            "mail": "Mike.Gilbride@nymag.com",
+            "name": "Gilbride, Mike",
+            "sn": "Gilbride"
+        },
+        {
+            "telephonenumber": "212-508-0720",
+            "mail": "Corrie.Katcher@nymag.com",
+            "name": "Katcher, Corrie",
+            "sn": "Katcher"
+        },
+        {
+            "mail": "Justin.McCraw@nymag.com",
+            "name": "McCraw, Justin",
+            "sn": "McCraw"
+        },
+        {
+            "telephonenumber": "212-508-0860",
+            "mail": "Andrew.Rice@nymag.com",
+            "name": "Rice, Andrew",
+            "sn": "Rice"
+        },
+        {
+            "telephonenumber": "212-508-0728",
+            "mail": "Alexis.Swerdloff@nymag.com",
+            "name": "Swerdloff, Alexis",
+            "sn": "Swerdloff"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0864",
+            "mail": "Victor.Prado@nymag.com",
+            "name": "Prado, Victor",
+            "sn": "Prado"
+        },
+        {
+            "mail": "plumbr@nymag.com",
+            "name": "plumbr"
+        },
+        {
+            "telephonenumber": "212-508-0556",
+            "mail": "Manny.Getachew@nymag.com",
+            "name": "Getachew, Manny",
+            "sn": "Getachew"
+        },
+        {
+            "mail": "CutFeedback@nymag.com",
+            "name": "CutFeedback"
+        },
+        {
+            "telephonenumber": "212-508-0605",
+            "mail": "Sierra.Tishgart@nymag.com",
+            "name": "Tishgart, Sierra",
+            "sn": "Tishgart"
+        },
+        {
+            "mail": "Genevieve.Smith@nymag.com",
+            "name": "Smith, Genevieve",
+            "sn": "Smith"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0555",
+            "mail": "Mac.Admin@nymag.com",
+            "name": "Admin, Mac",
+            "sn": "Admin"
+        },
+        {
+            "telephonenumber": "212-508-0899",
+            "mail": "Lauren.Schwartzberg@nymag.com",
+            "name": "Schwartzberg, Lauren",
+            "sn": "Schwartzberg"
+        },
+        {
+            "mail": "Lilly.ODonnell@nymag.com",
+            "name": "O'Donnell, Lilly",
+            "sn": "O'Donnell"
+        },
+        {
+            "mail": "Scott.Yorko@nymag.com",
+            "name": "Yorko, Scott",
+            "sn": "Yorko"
+        },
+        {
+            "mail": "Leila.Samii@nymag.com",
+            "name": "Samii, Leila",
+            "sn": "Samii"
+        },
+        {
+            "mail": "support@vulture.com",
+            "name": "Support"
+        },
+        {
+            "mail": "Avantika.Khullar@nymag.com",
+            "name": "Khullar, Avantika",
+            "sn": "Khullar"
+        },
+        {
+            "telephonenumber": "212-508-0685",
+            "mail": "Jay.Guillermo@nymag.com",
+            "name": "Guillermo, Jay",
+            "sn": "Guillermo"
+        },
+        {
+            "mail": "party@nymag.com",
+            "name": "party"
+        },
+        {
+            "mail": "Ana.Zapata@nymag.com",
+            "name": "Zapata, Ana",
+            "sn": "Zapata"
+        },
+        {
+            "telephonenumber": "212-508-0655",
+            "mail": "Karishma.Sheth@nymag.com",
+            "name": "Sheth, Karishma",
+            "sn": "Sheth"
+        },
+        {
+            "mail": "springintocolor@nymag.com",
+            "name": "springintocolor"
+        },
+        {
+            "mail": "affiliates@nymag.com",
+            "name": "affiliates"
+        },
+        {
+            "mail": "Christopher.Giblin@nymag.com",
+            "name": "Giblin, Christopher",
+            "sn": "Giblin"
+        },
+        {
+            "telephonenumber": "212-508-0806",
+            "mail": "kathleen.gladstone@nymag.com",
+            "name": "Gladstone, Kathleen",
+            "sn": "Gladstone"
+        },
+        {
+            "telephonenumber": "212-508-0668",
+            "mail": "Ian.Epstein@nymag.com",
+            "name": "Epstein, Ian",
+            "sn": "Epstein"
+        },
+        {
+            "telephonenumber": "212-508-0573",
+            "mail": "Lindsey.Weber@nymag.com",
+            "name": "Weber, Lindsey",
+            "sn": "Weber"
+        },
+        {
+            "mail": "Kristine.Yin@nymag.com",
+            "name": "Yin, Kristine",
+            "sn": "Yin"
+        },
+        {
+            "mail": "Kera.Bolonik@nymag.com",
+            "name": "Bolonik, Kera",
+            "sn": "Bolonik"
+        },
+        {
+            "telephonenumber": "212-508-0848",
+            "mail": "Michael.Galgano@nymag.com",
+            "name": "Galgano, Michael",
+            "sn": "Galgano"
+        },
+        {
+            "telephonenumber": "212-508-0714",
+            "mail": "Ivonne.Cintron@nymag.com",
+            "name": "Cintron, Ivonne",
+            "sn": "Cintron"
+        },
+        {
+            "telephonenumber": "212-508-0670",
+            "mail": "Seth.Daggett@nymag.com",
+            "name": "Daggett, Seth",
+            "sn": "Daggett"
+        },
+        {
+            "mail": "Cutcontest@nymag.com",
+            "name": "Cutcontest"
+        },
+        {
+            "telephonenumber": "212-508-0637",
+            "mail": "agendacomments@nymag.com",
+            "name": "agendacomments"
+        },
+        {
+            "mail": "Twitter.Intelligencer@nymag.com",
+            "name": "Twitter Intelligencer"
+        },
+        {
+            "mail": "Bobby.Doherty@nymag.com",
+            "name": "Doherty, Bobby",
+            "sn": "Doherty"
+        },
+        {
+            "telephonenumber": "212-508-0835",
+            "mail": "Sarah.Trigg@nymag.com",
+            "name": "Trigg, Sarah",
+            "sn": "Trigg"
+        },
+        {
+            "mail": "WeddingsFashion@nymag.com",
+            "name": "WeddingsFashion"
+        },
+        {
+            "mail": "localadsales@nymag.com",
+            "name": "localadsales"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0555",
+            "mail": "Tablet.Export@nymag.com",
+            "name": "Export, Tablet",
+            "sn": "Export"
+        },
+        {
+            "telephonenumber": "212-508-0526",
+            "mail": "Jebediah.Reed@nymag.com",
+            "name": "Reed, Jebediah",
+            "sn": "Reed"
+        },
+        {
+            "mail": "Katie.Zavadski@nymag.com",
+            "name": "Zavadski, Katie",
+            "sn": "Zavadski"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0872",
+            "mail": "Erica.Schwiegershausen@nymag.com",
+            "name": "Schwiegershausen, Erica",
+            "sn": "Schwiegershausen"
+        },
+        {
+            "mail": "Bedford.bowery@nymag.com",
+            "name": "Bedford.bowery"
+        },
+        {
+            "telephonenumber": "212-508-0669",
+            "mail": "Allison.Davis@nymag.com",
+            "name": "Davis, Allison",
+            "sn": "Davis"
+        },
+        {
+            "mail": "flywithstan@nymag.com",
+            "name": "flywithstan"
+        },
+        {
+            "mail": "jetbluestan@nymag.com",
+            "name": "jetbluestan"
+        },
+        {
+            "mail": "Video2@nymag.com",
+            "name": "Video2"
+        },
+        {
+            "telephonenumber": "212-508-0705",
+            "mail": "Kevin.Ferri@nymag.com",
+            "name": "Ferri, Kevin",
+            "sn": "Ferri"
+        },
+        {
+            "mail": "Adriana.Deleo@nymag.com",
+            "name": "Deleo, Adriana",
+            "sn": "Deleo"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0553",
+            "mail": "Mediha.Aziz@nymag.com",
+            "name": "Aziz, Mediha",
+            "sn": "Aziz"
+        },
+        {
+            "mail": "Hilary.Reid@nymag.com",
+            "name": "Reid, Hilary",
+            "sn": "Reid"
+        },
+        {
+            "mail": "Molly.Fischer@nymag.com",
+            "name": "Fischer, Molly",
+            "sn": "Fischer"
+        },
+        {
+            "telephonenumber": "212-508-0589",
+            "mail": "Sean.Becket@nymag.com",
+            "name": "Becket, Sean",
+            "sn": "Becket"
+        },
+        {
+            "telephonenumber": "212-508-0595",
+            "mail": "Lissette.Cufino@nymag.com",
+            "name": "Cufino, Lissette",
+            "sn": "Cufino"
+        },
+        {
+            "mail": "thecutparty@nymag.com",
+            "name": "thecutparty"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0555",
+            "mail": "John.Krang@nymag.com",
+            "name": "Krang, John",
+            "sn": "Krang"
+        },
+        {
+            "telephonenumber": "212-508-0742",
+            "mail": "Kevin.Gao@nymag.com",
+            "name": "Gao, Kevin",
+            "sn": "Gao"
+        },
+        {
+            "mail": "Samantha.Schoenfeld@nymag.com",
+            "name": "Samantha Schoenfeld",
+            "sn": "Schoenfeld"
+        },
+        {
+            "mail": "Sophie.Idromenos@nymag.com",
+            "name": "Idromenos, Sophie",
+            "sn": "Idromenos"
+        },
+        {
+            "mail": "Anna.Silman@nymag.com",
+            "name": "Silman, Anna",
+            "sn": "Silman"
+        },
+        {
+            "telephonenumber": "1 (646) 391-0647",
+            "mail": "Jose.Palma@nymag.com",
+            "name": "Palma, Jose",
+            "sn": "Palma"
+        },
+        {
+            "mail": "Herve.Eichwald@nymag.com",
+            "name": "Eichwald, Herve",
+            "sn": "Eichwald"
+        },
+        {
+            "telephonenumber": "212-508-0810",
+            "mail": "Alex.Jung@nymag.com",
+            "name": "Jung, Alex",
+            "sn": "Jung"
+        },
+        {
+            "telephonenumber": "212-508-0718",
+            "mail": "Kathleen.Hou@nymag.com",
+            "name": "Hou, Kathleen",
+            "sn": "Hou"
+        },
+        {
+            "telephonenumber": "212-508-0722",
+            "mail": "Jesse.Zannino@nymag.com",
+            "name": "Zannino, Jesse",
+            "sn": "Zannino"
+        },
+        {
+            "mail": "nymhomepage@nymag.com",
+            "name": "nymhomepage"
+        },
+        {
+            "telephonenumber": "212-508-0653",
+            "mail": "Morgan.Croney@nymag.com",
+            "name": "Croney, Morgan",
+            "sn": "Croney"
+        },
+        {
+            "telephonenumber": "212-508-0758",
+            "mail": "Jen.Gann@nymag.com",
+            "name": "Gann, Jen",
+            "sn": "Gann"
+        },
+        {
+            "mail": "Corinna.Kirsch@nymag.com",
+            "name": "Kirsch, Corinna",
+            "sn": "Kirsch"
+        },
+        {
+            "mail": "Kim.Shannon@nymag.com",
+            "name": "Shannon, Kim",
+            "sn": "Shannon"
+        },
+        {
+            "mail": "Chris.Packham@nymag.com",
+            "name": "Packham, Chris",
+            "sn": "Packham"
+        },
+        {
+            "telephonenumber": "212-508-0858",
+            "mail": "Abraham.Riesman@nymag.com",
+            "name": "Riesman, Abraham",
+            "sn": "Riesman"
+        },
+        {
+            "mail": "Tyler.Hancock@nymag.com",
+            "name": "Hancock, Tyler",
+            "sn": "Hancock"
+        },
+        {
+            "mail": "Darwin.DeLeon@nymag.com",
+            "name": "DeLeon, Darwin",
+            "sn": "DeLeon"
+        },
+        {
+            "telephonenumber": "212-508-0671",
+            "mail": "Erica.Izenberg@nymag.com",
+            "name": "Izenberg, Erica",
+            "sn": "Izenberg"
+        },
+        {
+            "mail": "Isabel.Wilkinson@nymag.com",
+            "name": "Wilkinson, Isabel",
+            "sn": "Wilkinson"
+        },
+        {
+            "telephonenumber": "212-508-0516",
+            "mail": "Beth.Stojkov@nymag.com",
+            "name": "Stojkov, Beth",
+            "sn": "Stojkov"
+        },
+        {
+            "mail": "Weddingssubmissions@nymag.com",
+            "name": "Weddingssubmissions"
+        },
+        {
+            "mail": "nyfyi@nymag.com",
+            "name": "nyfyi"
+        },
+        {
+            "telephonenumber": "212-508-0843",
+            "mail": "Gail.Smith@nymag.com",
+            "name": "Smith, Gail",
+            "sn": "Smith"
+        },
+        {
+            "mail": "NYMag-AppSupport@nymag.com",
+            "name": "NYMag-AppSupport"
+        },
+        {
+            "mail": "famegazer@nymag.com",
+            "name": "famegazer"
+        },
+        {
+            "mail": "hotshots@nymag.com",
+            "name": "hotshots"
+        },
+        {
+            "mail": "Christopher.Cristiano@nymag.com",
+            "name": "Cristiano, Christopher",
+            "sn": "Cristiano"
+        },
+        {
+            "mail": "scienceofus@nymag.com",
+            "name": "scienceofus"
+        },
+        {
+            "mail": "sciofus@nymag.com",
+            "name": "sciofus"
+        },
+        {
+            "mail": "explainedbyscience@nymag.com",
+            "name": "explainedbyscience"
+        },
+        {
+            "mail": "latesttheory@nymag.com",
+            "name": "latesttheory"
+        },
+        {
+            "mail": "latesttheories@nymag.com",
+            "name": "latesttheories"
+        },
+        {
+            "mail": "science1@nymag.com",
+            "name": "science1"
+        },
+        {
+            "mail": "science2@nymag.com",
+            "name": "science2"
+        },
+        {
+            "mail": "science3@nymag.com",
+            "name": "science3"
+        },
+        {
+            "telephonenumber": "212-508-0586",
+            "mail": "Trupti.Rami@nymag.com",
+            "name": "Rami, Trupti",
+            "sn": "Rami"
+        },
+        {
+            "mail": "ornaments@nymag.com",
+            "name": "ornaments"
+        },
+        {
+            "telephonenumber": "212-508-0664",
+            "mail": "Gary.Hagen@nymag.com",
+            "name": "Hagen, Gary",
+            "sn": "Hagen"
+        },
+        {
+            "telephonenumber": "212-508-0546",
+            "mail": "Kevin.Kanach@nymag.com",
+            "name": "Kanach, Kevin",
+            "sn": "Kanach"
+        },
+        {
+            "telephonenumber": "212-508-0566",
+            "mail": "Pete.Sutton@nymag.com",
+            "name": "Sutton, Pete",
+            "sn": "Sutton"
+        },
+        {
+            "mail": "Sharanya.Durvasula@nymag.com",
+            "name": "Durvasula, Sharanya",
+            "sn": "Durvasula"
+        },
+        {
+            "mail": "Rory.Walsh@nymag.com",
+            "name": "Walsh, Rory",
+            "sn": "Walsh"
+        },
+        {
+            "telephonenumber": "212-508-0532",
+            "mail": "Noreen.Malone@nymag.com",
+            "name": "Malone, Noreen",
+            "sn": "Malone"
+        },
+        {
+            "telephonenumber": "212-508-0886",
+            "mail": "Adam.Martin@nymag.com",
+            "name": "Martin, Adam",
+            "sn": "Martin"
+        },
+        {
+            "mail": "Hannah.Ghorashi@nymag.com",
+            "name": "Ghorashi, Hannah",
+            "sn": "Ghorashi"
+        },
+        {
+            "telephonenumber": "212-508-0519",
+            "mail": "Jennifer.Kirby@nymag.com",
+            "name": "Kirby, Jennifer",
+            "sn": "Kirby"
+        },
+        {
+            "mail": "tastemakernominations@nymag.com",
+            "name": "tastemakernominations"
+        },
+        {
+            "mail": "Dawn.Mobley@nymag.com",
+            "name": "Mobley, Dawn",
+            "sn": "Mobley"
+        },
+        {
+            "telephonenumber": "212-508-0772",
+            "mail": "Melissa.Nappi@nymag.com",
+            "name": "Nappi, Melissa",
+            "sn": "Nappi"
+        },
+        {
+            "mail": "creativeservices@nymag.com",
+            "name": "creativeservices"
+        },
+        {
+            "mail": "approvalmatrix@nymag.com",
+            "name": "approvalmatrix"
+        },
+        {
+            "mail": "vulturecrossword@nymag.com",
+            "name": "Crossword, Vulture",
+            "sn": "Crossword"
+        },
+        {
+            "mail": "Cheryl.Wischhover@nymag.com",
+            "name": "Wischhover, Cheryl",
+            "sn": "Wischhover"
+        },
+        {
+            "telephonenumber": "212-508-0891",
+            "mail": "Michelle.Imbrogno@nymag.com",
+            "name": "Imbrogno, Michelle",
+            "sn": "Imbrogno"
+        },
+        {
+            "telephonenumber": "212-508-0805",
+            "mail": "Jesse.Singal@nymag.com",
+            "name": "Singal, Jesse",
+            "sn": "Singal"
+        },
+        {
+            "mail": "V1Admin@nymag.com",
+            "name": "Admin, V1",
+            "sn": "Admin"
+        },
+        {
+            "mail": "versionone@nymag.com",
+            "name": "One, Version",
+            "sn": "One"
+        },
+        {
+            "telephonenumber": "212-508-0550",
+            "mail": "Jennifer.Vineyard@nymag.com",
+            "name": "Vineyard, Jennifer",
+            "sn": "Vineyard"
+        },
+        {
+            "telephonenumber": "212-508-0780",
+            "mail": "Tara.Abell@nymag.com",
+            "name": "Abell, Tara",
+            "sn": "Abell"
+        },
+        {
+            "mail": "Thomas.Howard@nymag.com",
+            "name": "Howard, Thomas",
+            "sn": "Howard"
+        },
+        {
+            "telephonenumber": "212-508-0629",
+            "mail": "Reid.Uhrich@nymag.com",
+            "name": "Uhrich, Reid",
+            "sn": "Uhrich"
+        },
+        {
+            "mail": "Jessica.Chou@nymag.com",
+            "name": "Chou, Jessica",
+            "sn": "Chou"
+        },
+        {
+            "telephonenumber": "212-508-0764",
+            "mail": "Eddie.Kelly@nymag.com",
+            "name": "Kelly, Eddie",
+            "sn": "Kelly"
+        },
+        {
+            "mail": "Nisha.Gopalan@nymag.com",
+            "name": "Gopalan, Nisha",
+            "sn": "Gopalan"
+        },
+        {
+            "telephonenumber": "212-508-0665",
+            "mail": "Veronique.Hyland@nymag.com",
+            "name": "Hyland, Veronique",
+            "sn": "Hyland"
+        },
+        {
+            "mail": "designhunting@nymag.com",
+            "name": "designhunting"
+        },
+        {
+            "mail": "promo@nymag.com",
+            "name": "promo"
+        },
+        {
+            "telephonenumber": "212-508-0576",
+            "mail": "Melissa.Dahl@nymag.com",
+            "name": "Dahl, Melissa",
+            "sn": "Dahl"
+        },
+        {
+            "mail": "Elizabeth.Bevilacqua@nymag.com",
+            "name": "Bevilacqua, Elizabeth",
+            "sn": "Bevilacqua"
+        },
+        {
+            "mail": "Kevin.Fegan@nymag.com",
+            "name": "Fegan, Kevin",
+            "sn": "Fegan"
+        },
+        {
+            "mail": "Vulturefestival@nymag.com",
+            "name": "Vulture Festival"
+        },
+        {
+            "telephonenumber": "310-315-0998",
+            "mail": "Curtis.Williams@nymag.com",
+            "name": "Williams, Curtis",
+            "sn": "Williams"
+        },
+        {
+            "mail": "James.Yeh@nymag.com",
+            "name": "Yeh, James",
+            "sn": "Yeh"
+        },
+        {
+            "telephonenumber": "212-508-0730",
+            "mail": "Nicole.Siegel@nymag.com",
+            "name": "Siegel, Nicole",
+            "sn": "Siegel"
+        },
+        {
+            "mail": "Gabrielle.Plucknette@nymag.com",
+            "name": "Plucknette, Gabrielle",
+            "sn": "Plucknette"
+        },
+        {
+            "telephonenumber": "212-508-0566",
+            "mail": "Matthew.Kersh@nymag.com",
+            "name": "Kersh, Matthew",
+            "sn": "Kersh"
+        },
+        {
+            "mail": "surflodge@nymag.com",
+            "name": "surflodge"
+        },
+        {
+            "mail": "Julia.Reinstein@nymag.com",
+            "name": "Reinstein, Julia",
+            "sn": "Reinstein"
+        },
+        {
+            "mail": "Ian.Olasov@nymag.com",
+            "name": "Olasov, Ian",
+            "sn": "Olasov"
+        },
+        {
+            "telephonenumber": "212-508-0828",
+            "mail": "Nick.Tabor@nymag.com",
+            "name": "Tabor, Nick",
+            "sn": "Tabor"
+        },
+        {
+            "mail": "Emilia.Petrarca@nymag.com",
+            "name": "Petrarca, Emilia",
+            "sn": "Petrarca"
+        },
+        {
+            "mail": "Kahlua@nymag.com",
+            "name": "Kahlua"
+        },
+        {
+            "mail": "Kelly.Chiello@nymag.com",
+            "name": "Chiello, Kelly",
+            "sn": "Chiello"
+        },
+        {
+            "telephonenumber": "212-508-0631",
+            "mail": "Chris.Mika@nymag.com",
+            "name": "Mika, Chris",
+            "sn": "Mika"
+        },
+        {
+            "telephonenumber": "212-508-0757",
+            "mail": "Julia.Luu@nymag.com",
+            "name": "Luu, Julia",
+            "sn": "Luu"
+        },
+        {
+            "mail": "twitterscienceofus@nymag.com",
+            "name": "twitterscienceofus"
+        },
+        {
+            "mail": "annie@nymag.com",
+            "name": "Lowrey, Annie",
+            "sn": "Lowrey"
+        },
+        {
+            "telephonenumber": "212-508-0734",
+            "mail": "Nelson.Pecora@nymag.com",
+            "name": "Pecora, Nelson",
+            "sn": "Pecora"
+        },
+        {
+            "mail": "Bryan.Grammatico@nymag.com",
+            "name": "Grammatico, Bryan",
+            "sn": "Grammatico"
+        },
+        {
+            "mail": "tvguidance@nymag.com",
+            "name": "tvguidance"
+        },
+        {
+            "telephonenumber": "212-508-0717",
+            "mail": "Kristi.Adams@nymag.com",
+            "name": "Adams, Kristi",
+            "sn": "Adams"
+        },
+        {
+            "mail": "staytuned@nymag.com",
+            "name": "staytuned"
+        },
+        {
+            "mail": "Dan.Whiteley@nymag.com",
+            "name": "Whiteley, Dan",
+            "sn": "Whiteley"
+        },
+        {
+            "telephonenumber": "212-508-0856",
+            "mail": "Teresa.Triolo@nymag.com",
+            "name": "Triolo, Teresa",
+            "sn": "Triolo"
+        },
+        {
+            "telephonenumber": "212-508-0512",
+            "mail": "Adam.Sternbergh@nymag.com",
+            "name": "Sternbergh, Adam",
+            "sn": "Sternbergh"
+        },
+        {
+            "mail": "RevlonProvocateurs@nymag.com",
+            "name": "RevlonProvocateurs"
+        },
+        {
+            "mail": "Zoe.Fox@nymag.com",
+            "name": "Fox, Zoe",
+            "sn": "Fox"
+        },
+        {
+            "mail": "Dalia.Abuadas@nymag.com",
+            "name": "Abuadas, Dalia",
+            "sn": "Abuadas"
+        },
+        {
+            "telephonenumber": "212-508-0787",
+            "mail": "Christina.Dominguez@nymag.com",
+            "name": "Dominguez, Christina",
+            "sn": "Dominguez"
+        },
+        {
+            "telephonenumber": "212-508-0889",
+            "mail": "Rachel.Loeb@nymag.com",
+            "name": "Loeb, Rachel",
+            "sn": "Loeb"
+        },
+        {
+            "mail": "Erin.Friedmann@nymag.com",
+            "name": "Friedmann, Erin",
+            "sn": "Friedmann"
+        },
+        {
+            "mail": "Sara.Gong@nymag.com",
+            "name": "Gong, Sara",
+            "sn": "Gong"
+        },
+        {
+            "telephonenumber": "212-508-0584",
+            "mail": "Katy.Schneider@nymag.com",
+            "name": "Schneider, Katy",
+            "sn": "Schneider"
+        },
+        {
+            "mail": "Fun@nymag.com",
+            "name": "Fun"
+        },
+        {
+            "telephonenumber": "212-508-0818",
+            "mail": "Carlos.Sousa@nymag.com",
+            "name": "Sousa, Carlos",
+            "sn": "Sousa"
+        },
+        {
+            "telephonenumber": "212-508-0715",
+            "mail": "Cara.Katz@nymag.com",
+            "name": "Katz, Cara",
+            "sn": "Katz"
+        },
+        {
+            "mail": "Dane.Stuckel@nymag.com",
+            "name": "Stuckel, Dane",
+            "sn": "Stuckel"
+        },
+        {
+            "telephonenumber": "212-508-0853",
+            "mail": "Jessica.Roy@nymag.com",
+            "name": "Roy, Jessica",
+            "sn": "Roy"
+        },
+        {
+            "mail": "Lindsay.Zoladz@nymag.com",
+            "name": "Zoladz, Lindsay",
+            "sn": "Zoladz"
+        },
+        {
+            "telephonenumber": "212-508-0697",
+            "mail": "Annie.Jacobson@nymag.com",
+            "name": "Jacobson, Annie",
+            "sn": "Jacobson"
+        },
+        {
+            "telephonenumber": "212-508-0732",
+            "mail": "Lori.Keong@nymag.com",
+            "name": "Keong, Lori",
+            "sn": "Keong"
+        },
+        {
+            "mail": "PinterestCut@nymag.com",
+            "name": "PinterestCut"
+        },
+        {
+            "telephonenumber": "212-508-0840",
+            "mail": "Lauren.Kern@nymag.com",
+            "name": "Kern, Lauren",
+            "sn": "Kern"
+        },
+        {
+            "mail": "Deb.Schwartz@nymag.com",
+            "name": "Schwartz, Deb",
+            "sn": "Schwartz"
+        },
+        {
+            "mail": "Sean.Fitz-Gerald@nymag.com",
+            "name": "Fitz-Gerald, Sean",
+            "sn": "Fitz-Gerald"
+        },
+        {
+            "mail": "Ashley.Weatherford@nymag.com",
+            "name": "Weatherford, Ashley",
+            "sn": "Weatherford"
+        },
+        {
+            "mail": "Layla.Ilchi@nymag.com",
+            "name": "Ilchi, Layla",
+            "sn": "Ilchi"
+        },
+        {
+            "mail": "Kathryn.Pfau@nymag.com",
+            "name": "Pfau, Kathryn",
+            "sn": "Pfau"
+        },
+        {
+            "telephonenumber": "212-508-0689",
+            "mail": "Rachel.Becker@nymag.com",
+            "name": "Becker, Rachel",
+            "sn": "Becker"
+        },
+        {
+            "mail": "Sarah.Probst@nymag.com",
+            "name": "Probst, Sarah",
+            "sn": "Probst"
+        },
+        {
+            "mail": "AskPolly@nymag.com",
+            "name": "Polly, Ask",
+            "sn": "Polly"
+        },
+        {
+            "mail": "Mi-Anne.Chan@nymag.com",
+            "name": "Chan, Mi-Anne",
+            "sn": "Chan"
+        },
+        {
+            "mail": "Amita.Maram@nymag.com",
+            "name": "Maram, Amita",
+            "sn": "Maram"
+        },
+        {
+            "mail": "Victoria.Gan@nymag.com",
+            "name": "Gan, Victoria",
+            "sn": "Gan"
+        },
+        {
+            "telephonenumber": "212-508-0505",
+            "mail": "Becca.Hafter@nymag.com",
+            "name": "Hafter, Becca",
+            "sn": "Hafter"
+        },
+        {
+            "mail": "Marcus.Jones@nymag.com",
+            "name": "Jones, Marcus",
+            "sn": "Jones"
+        },
+        {
+            "telephonenumber": "212-508-0647",
+            "mail": "Diana.Tsui@nymag.com",
+            "name": "Tsui, Diana",
+            "sn": "Tsui"
+        },
+        {
+            "telephonenumber": "212-508-0607",
+            "mail": "Tara.Reilly@nymag.com",
+            "name": "Reilly, Tara",
+            "sn": "Reilly"
+        },
+        {
+            "telephonenumber": "212-508-0708",
+            "mail": "Nate.Jones@nymag.com",
+            "name": "Jones, Nate",
+            "sn": "Jones"
+        },
+        {
+            "telephonenumber": "212-508-0886",
+            "mail": "Lainna.Fader@nymag.com",
+            "name": "Fader, Lainna",
+            "sn": "Fader"
+        },
+        {
+            "mail": "Stephanie.Eckardt@nymag.com",
+            "name": "Eckardt, Stephanie",
+            "sn": "Eckardt"
+        },
+        {
+            "telephonenumber": "212-508-0537",
+            "mail": "David.Marchese@nymag.com",
+            "name": "Marchese, David",
+            "sn": "Marchese"
+        },
+        {
+            "mail": "Dana.Getz@nymag.com",
+            "name": "Getz, Dana",
+            "sn": "Getz"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0579",
+            "mail": "SKII@nymag.com",
+            "name": "SKII, SKII",
+            "sn": "SKII"
+        },
+        {
+            "mail": "Marin.Cogan@nymag.com",
+            "name": "Cogan, Marin",
+            "sn": "Cogan"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0511",
+            "mail": "Catie.LHeureux@nymag.com",
+            "name": "LâHeureux, Catie",
+            "sn": "LâHeureux"
+        },
+        {
+            "telephonenumber": "212-508-0829",
+            "mail": "Tirzah.Brott@nymag.com",
+            "name": "Brott, Tirzah",
+            "sn": "Brott"
+        },
+        {
+            "mail": "Eric.Barbera@nymag.com",
+            "name": "Barbera, Eric",
+            "sn": "Barbera"
+        },
+        {
+            "mail": "Dan.Buyanovsky@nymag.com",
+            "name": "Buyanovsky, Dan",
+            "sn": "Buyanovsky"
+        },
+        {
+            "mail": "Jason.Bishop@nymag.com",
+            "name": "Bishop, Jason",
+            "sn": "Bishop"
+        },
+        {
+            "telephonenumber": "212-508-0614",
+            "mail": "Sarah.Caldwell@nymag.com",
+            "name": "Caldwell, Sarah",
+            "sn": "Caldwell"
+        },
+        {
+            "telephonenumber": "212-508-0531",
+            "mail": "Stefan.Woskowiak@nymag.com",
+            "name": "Woskowiak, Stefan",
+            "sn": "Woskowiak"
+        },
+        {
+            "telephonenumber": "212-508-0716",
+            "mail": "Camilla.Cho@nymag.com",
+            "name": "Cho, Camilla",
+            "sn": "Cho"
+        },
+        {
+            "telephonenumber": "212-508-0790",
+            "mail": "Pam.Wasserstein@nymag.com",
+            "name": "Wasserstein, Pamela",
+            "sn": "Wasserstein"
+        },
+        {
+            "telephonenumber": "212-508-0656",
+            "mail": "Aude.White@nymag.com",
+            "name": "White, Aude",
+            "sn": "White"
+        },
+        {
+            "mail": "HouseofWalker@nymag.com",
+            "name": "NYMag-HouseofWalker"
+        },
+        {
+            "mail": "Stephanie.Calabrese@nymag.com",
+            "name": "Calabrese, Stephanie",
+            "sn": "Calabrese"
+        },
+        {
+            "telephonenumber": "212-508-0721",
+            "mail": "Cheryl.Vawdrey@nymag.com",
+            "name": "Vawdrey, Cheryl",
+            "sn": "Vawdrey"
+        },
+        {
+            "mail": "Ella.Ceron@nymag.com",
+            "name": "Ceron, Ella",
+            "sn": "Ceron"
+        },
+        {
+            "telephonenumber": "212-508-0710",
+            "mail": "Matt.Greenway@nymag.com",
+            "name": "Greenway, Matt",
+            "sn": "Greenway"
+        },
+        {
+            "telephonenumber": "212-508-0529",
+            "mail": "Morgan.Cohn@nymag.com",
+            "name": "Cohn, Morgan",
+            "sn": "Cohn"
+        },
+        {
+            "mail": "Katherine.Ward@nymag.com",
+            "name": "Ward, Katherine",
+            "sn": "Ward"
+        },
+        {
+            "telephonenumber": "212-508-0745",
+            "mail": "Darlene.Lanier@nymag.com",
+            "name": "Lanier, Darlene",
+            "sn": "Lanier"
+        },
+        {
+            "mail": "Tattoo@nymag.com",
+            "name": "Tattoo"
+        },
+        {
+            "telephonenumber": "212-508-0796",
+            "mail": "Jamal.Habib@nymag.com",
+            "name": "Habib, Jamal",
+            "sn": "Habib"
+        },
+        {
+            "mail": "Devan.Coggan@nymag.com",
+            "name": "Coggan, Devan",
+            "sn": "Coggan"
+        },
+        {
+            "mail": "Audrey.Bruno@nymag.com",
+            "name": "Bruno, Audrey",
+            "sn": "Bruno"
+        },
+        {
+            "mail": "Claire.Landsbaum@nymag.com",
+            "name": "Landsbaum, Claire",
+            "sn": "Landsbaum"
+        },
+        {
+            "mail": "Cynthia.Puleo@nymag.com",
+            "name": "Puleo, Cynthia",
+            "sn": "Puleo"
+        },
+        {
+            "mail": "Cathy.Horyn@nymag.com",
+            "name": "Horyn, Cathy",
+            "sn": "Horyn"
+        },
+        {
+            "telephonenumber": "212-508-0894",
+            "mail": "Jenny.Barrett@nymag.com",
+            "name": "Barrett, Jenny",
+            "sn": "Barrett"
+        },
+        {
+            "mail": "Sofia.Lyons@nymag.com",
+            "name": "Lyons, Sofia",
+            "sn": "Lyons"
+        },
+        {
+            "mail": "WeddingsEvent@nymag.com",
+            "name": "WeddingsEvent"
+        },
+        {
+            "mail": "CSJob@nymag.com",
+            "name": "CSJob"
+        },
+        {
+            "mail": "Brooke.Marine@nymag.com",
+            "name": "Marine, Brooke",
+            "sn": "Marine"
+        },
+        {
+            "mail": "Claire.Voon@nymag.com",
+            "name": "Voon, Claire",
+            "sn": "Voon"
+        },
+        {
+            "mail": "Steve.Porter@nymag.com",
+            "name": "Porter, Steve",
+            "sn": "Porter"
+        },
+        {
+            "telephonenumber": "212-508-0572",
+            "mail": "Sophie.Levine@nymag.com",
+            "name": "Levine, Sophie",
+            "sn": "Levine"
+        },
+        {
+            "mail": "Gazelle.Emami@vulture.com",
+            "name": "Emami, Gazelle",
+            "sn": "Emami"
+        },
+        {
+            "mail": "online.photo@nymag.com",
+            "name": "photo, online",
+            "sn": "photo"
+        },
+        {
+            "telephonenumber": "212-508-0593",
+            "mail": "Dee.Lockett@vulture.com",
+            "name": "Lockett, Dee",
+            "sn": "Lockett"
+        },
+        {
+            "mail": "Aydah.Albaba@nymag.com",
+            "name": "Albaba, Aydah",
+            "sn": "Albaba"
+        },
+        {
+            "telephonenumber": "212-508-",
+            "mail": "Jake.Nevins@nymag.com",
+            "name": "Nevins, Jake",
+            "sn": "Nevins"
+        },
+        {
+            "mail": "Susan.Li@nymag.com",
+            "name": "Li, Susan",
+            "sn": "Li"
+        },
+        {
+            "mail": "Noah.Wildman@nymag.com",
+            "name": "Wildman, Noah",
+            "sn": "Wildman"
+        },
+        {
+            "telephonenumber": "212-508-0695",
+            "mail": "Lauretta.Charlton@vulture.com",
+            "name": "Charlton, Lauretta",
+            "sn": "Charlton"
+        },
+        {
+            "telephonenumber": "212-508-0666",
+            "mail": "Jennifer.Williamson@nymag.com",
+            "name": "Williamson, Jennifer",
+            "sn": "Williamson"
+        },
+        {
+            "mail": "tvquestions@vulture.com",
+            "name": "tvquestions"
+        },
+        {
+            "mail": "Mary.Duffy@nymag.com",
+            "name": "Duffy, Mary",
+            "sn": "Duffy"
+        },
+        {
+            "mail": "Sarah.Laskow@nymag.com",
+            "name": "Laskow, Sarah",
+            "sn": "Laskow"
+        },
+        {
+            "mail": "Sonja.Georgevich@nymag.com",
+            "name": "Georgevich, Sonja",
+            "sn": "Georgevich"
+        },
+        {
+            "telephonenumber": "212-508-",
+            "mail": "Kathryn.Palmieri@nymag.com",
+            "name": "Palmieri, Kathryn",
+            "sn": "Palmieri"
+        },
+        {
+            "telephonenumber": "212-508-0539",
+            "mail": "Sofia.deGuzman@nymag.com",
+            "name": "de Guzman, Sofia",
+            "sn": "de Guzman"
+        },
+        {
+            "mail": "sweepstakes@nymag.com",
+            "name": "sweepstakes"
+        },
+        {
+            "mail": "mothers@nymag.com",
+            "name": "mothers"
+        },
+        {
+            "telephonenumber": "212-508-0896",
+            "mail": "Aaron.Petcoff@nymag.com",
+            "name": "Petcoff, Aaron",
+            "sn": "Petcoff"
+        },
+        {
+            "mail": "Kelsey.Cooper@nymag.com",
+            "name": "Cooper, Kelsey",
+            "sn": "Cooper"
+        },
+        {
+            "mail": "getaroom@vulture.com",
+            "name": "getaroom"
+        },
+        {
+            "telephonenumber": "212-508-0784",
+            "mail": "Hillary.McDaniels@nymag.com",
+            "name": "McDaniels, Hillary",
+            "sn": "McDaniels"
+        },
+        {
+            "mail": "Alice.Zhang@nymag.com",
+            "name": "Zhang, Alice",
+            "sn": "Zhang"
+        },
+        {
+            "mail": "tumblr@nymag.com",
+            "name": "tumblr"
+        },
+        {
+            "telephonenumber": "212-508-0402",
+            "mail": "Oscar.Cervera@nymag.com",
+            "name": "Cervera, Oscar",
+            "sn": "Cervera"
+        },
+        {
+            "mail": "Mia.Leimkuhler@nymag.com",
+            "name": "Leimkuhler, Mia",
+            "sn": "Leimkuhler"
+        },
+        {
+            "mail": "Kaitlyn.Jakola@nymag.com",
+            "name": "Jakola, Kaitlyn",
+            "sn": "Jakola"
+        },
+        {
+            "telephonenumber": "212-508-0751",
+            "mail": "Shawna.Foulkes@nymag.com",
+            "name": "Foulkes, Shawna",
+            "sn": "Foulkes"
+        },
+        {
+            "telephonenumber": "212-508-0849",
+            "mail": "Arielle.Speciner@nymag.com",
+            "name": "Speciner, Arielle",
+            "sn": "Speciner"
+        },
+        {
+            "telephonenumber": "212-508-0753",
+            "mail": "Khristine.Dompor@nymag.com",
+            "name": "Dompor, Khristine",
+            "sn": "Dompor"
+        },
+        {
+            "mail": "Molly.Oswaks@nymag.com",
+            "name": "Oswaks, Molly",
+            "sn": "Oswaks"
+        },
+        {
+            "telephonenumber": "212-508-",
+            "mail": "Alexandra.Argenti@nymag.com",
+            "name": "Argenti, Alexandra",
+            "sn": "Argenti"
+        },
+        {
+            "mail": "Kyle.Paoletta@nymag.com",
+            "name": "Paoletta, Kyle",
+            "sn": "Paoletta"
+        },
+        {
+            "telephonenumber": "212-508-0821",
+            "mail": "Jessica.Cohn@nymag.com",
+            "name": "Cohn, Jessica",
+            "sn": "Cohn"
+        },
+        {
+            "telephonenumber": "212-508-0535",
+            "mail": "Lindsay.Peoples@nymag.com",
+            "name": "Peoples, Lindsay",
+            "sn": "Peoples"
+        },
+        {
+            "mail": "Greg.Motylenski@nymag.com",
+            "name": "Motylenski, Greg",
+            "sn": "Motylenski"
+        },
+        {
+            "mail": "sexinmuseums@nymag.com",
+            "name": "sexinmuseums"
+        },
+        {
+            "telephonenumber": "212-508-0570",
+            "mail": "Linda.Tran-Tutovan@nymag.com",
+            "name": "Tran-Tutovan, Linda",
+            "sn": "Tran-Tutovan"
+        },
+        {
+            "telephonenumber": "212-508-0677",
+            "mail": "Chris.Crowley@nymag.com",
+            "name": "Crowley, Chris",
+            "sn": "Crowley"
+        },
+        {
+            "mail": "Trish.Harnetiaux@nymag.com",
+            "name": "Harnetiaux, Trish",
+            "sn": "Harnetiaux"
+        },
+        {
+            "telephonenumber": "212-508-0551",
+            "mail": "Alex.Wiehl@nymag.com",
+            "name": "Wiehl, Alex",
+            "sn": "Wiehl"
+        },
+        {
+            "mail": "Press@nymag.com",
+            "name": "Press"
+        },
+        {
+            "telephonenumber": "212-508-0643",
+            "mail": "Isaac.Shub@nymag.com",
+            "name": "Shub, Isaac",
+            "sn": "Shub"
+        },
+        {
+            "mail": "Grubstreet.Instagram@nymag.com",
+            "name": "Grubstreet Instagram",
+            "sn": "Instagram"
+        },
+        {
+            "telephonenumber": "212-508-0568",
+            "mail": "Nate.Goldman@nymag.com",
+            "name": "Goldman, Nate",
+            "sn": "Goldman"
+        },
+        {
+            "telephonenumber": "212-508-0785",
+            "mail": "Daniel.Borowski@nymag.com",
+            "name": "Borowski, Daniel",
+            "sn": "Borowski"
+        },
+        {
+            "mail": "Chris.Wade@nymag.com",
+            "name": "Wade, Chris",
+            "sn": "Wade"
+        },
+        {
+            "mail": "Sandra.Garcia@nymag.com",
+            "name": "Garcia, Sandra",
+            "sn": "Garcia"
+        },
+        {
+            "mail": "Jack.Holmes@nymag.com",
+            "name": "Holmes, Jack",
+            "sn": "Holmes"
+        },
+        {
+            "mail": "Vanessa.Karalis@nymag.com",
+            "name": "Karalis, Vanessa",
+            "sn": "Karalis"
+        },
+        {
+            "mail": "replyall@nymag.com",
+            "name": "replyall"
+        },
+        {
+            "telephonenumber": "212-508-0590",
+            "mail": "Leslie.Shapiro@nymag.com",
+            "name": "Shapiro, Leslie",
+            "sn": "Shapiro"
+        },
+        {
+            "mail": "Devon.Ivie@nymag.com",
+            "name": "Ivie, Devon",
+            "sn": "Ivie"
+        },
+        {
+            "mail": "Eric.King@nymag.com",
+            "name": "King, Eric",
+            "sn": "King"
+        },
+        {
+            "mail": "Eleanor.Shanahan@nymag.com",
+            "name": "Shanahan, Eleanor",
+            "sn": "Shanahan"
+        },
+        {
+            "telephonenumber": "212-508-0564",
+            "mail": "Brooklyn.Presta@nymag.com",
+            "name": "Presta, Brooklyn",
+            "sn": "Presta"
+        },
+        {
+            "mail": "hats@nymag.com",
+            "name": "hats"
+        },
+        {
+            "mail": "Cheryl.Marker@nymag.com",
+            "name": "Marker, Cheryl",
+            "sn": "Marker"
+        },
+        {
+            "mail": "Emilie.Moy@nymag.com",
+            "name": "Moy, Emilie",
+            "sn": "Moy"
+        },
+        {
+            "mail": "Allen.Chiu@nymag.com",
+            "name": "Chiu, Allen",
+            "sn": "Chiu"
+        },
+        {
+            "mail": "Jeremy.Chylinski@nymag.com",
+            "name": "Chylinski, Jeremy",
+            "sn": "Chylinski"
+        },
+        {
+            "mail": "Kiannah.Sepeda-Miller@nymag.com",
+            "name": "Sepeda-Miller, Kiannah",
+            "sn": "Sepeda-Miller"
+        },
+        {
+            "mail": "Manuela.Tobias@nymag.com",
+            "name": "Tobias, Manuela",
+            "sn": "Tobias"
+        },
+        {
+            "mail": "Amelia.Curry@nymag.com",
+            "name": "Curry, Amelia",
+            "sn": "Curry"
+        },
+        {
+            "mail": "Katherine.Rausch@nymag.com",
+            "name": "Rausch, Katherine",
+            "sn": "Rausch"
+        },
+        {
+            "mail": "Valentina.Bojanini@nymag.com",
+            "name": "Bojanini, Valentina",
+            "sn": "Bojanini"
+        },
+        {
+            "mail": "Shirley.Yu@nymag.com",
+            "name": "Yu, Shirley",
+            "sn": "Yu"
+        },
+        {
+            "mail": "Elizabeth.Katz@nymag.com",
+            "name": "Katz, Elizabeth",
+            "sn": "Katz"
+        },
+        {
+            "mail": "designintern@nymag.com",
+            "name": "designintern"
+        },
+        {
+            "mail": "Katherine.Bernard@nymag.com",
+            "name": "Bernard, Katherine",
+            "sn": "Bernard"
+        },
+        {
+            "mail": "montauk@nymag.com",
+            "name": "montauk"
+        },
+        {
+            "mail": "James.Tschikov@nymag.com",
+            "name": "Tschikov, James",
+            "sn": "Tschikov"
+        },
+        {
+            "telephonenumber": "212-508-0696",
+            "mail": "Daniel.Jasper@nymag.com",
+            "name": "Jasper, Daniel",
+            "sn": "Jasper"
+        },
+        {
+            "mail": "Marley.Walker@nymag.com",
+            "name": "Walker, Marley",
+            "sn": "Walker"
+        },
+        {
+            "telephonenumber": "212-508-0606",
+            "mail": "Katherine.Fell@nymag.com",
+            "name": "Fell, Katherine",
+            "sn": "Fell"
+        },
+        {
+            "mail": "Victor.Velez@nymag.com",
+            "name": "Velez, Victor",
+            "sn": "Velez"
+        },
+        {
+            "mail": "Jordan.Larson@nymag.com",
+            "name": "Larson, Jordan",
+            "sn": "Larson"
+        },
+        {
+            "mail": "Shira.Laucharoen@nymag.com",
+            "name": "Laucharoen, Shira",
+            "sn": "Laucharoen"
+        },
+        {
+            "mail": "Aaron.Braun@nymag.com",
+            "name": "Braun, Aaron",
+            "sn": "Braun"
+        },
+        {
+            "mail": "Christian.Lorentzen@nymag.com",
+            "name": "Lorentzen, Christian",
+            "sn": "Lorentzen"
+        },
+        {
+            "telephonenumber": "6172016757",
+            "mail": "Chas_Danner@nymag.com",
+            "name": "Danner, Chas",
+            "sn": "Danner"
+        },
+        {
+            "mail": "Tischen.Franklin@nymag.com",
+            "name": "Franklin, Tischen",
+            "sn": "Franklin"
+        },
+        {
+            "telephonenumber": "212-508-0816",
+            "mail": "James.Walsh@nymag.com",
+            "name": "Walsh, James",
+            "sn": "Walsh"
+        },
+        {
+            "telephonenumber": "212-508-0715",
+            "mail": "Brian.Carney@nymag.com",
+            "name": "Carney, Brian",
+            "sn": "Carney"
+        },
+        {
+            "mail": "Kelly.Koenig@nymag.com",
+            "name": "Koenig, Kelly",
+            "sn": "Koenig"
+        },
+        {
+            "telephonenumber": "212-508-0767",
+            "mail": "Rachel.Seed@nymag.com",
+            "name": "Seed, Rachel",
+            "sn": "Seed"
+        },
+        {
+            "telephonenumber": "212-508-0877",
+            "mail": "Izzy.Grinspan@nymag.com",
+            "name": "Grinspan, Izzy",
+            "sn": "Grinspan"
+        },
+        {
+            "mail": "Sharon.Steel@nymag.com",
+            "name": "Steel, Sharon",
+            "sn": "Steel"
+        },
+        {
+            "telephonenumber": "212-508-0661",
+            "mail": "Jacob.Kramer-Duffield@nymag.com",
+            "name": "Kramer-Duffield, Jacob",
+            "sn": "Kramer-Duffield"
+        },
+        {
+            "mail": "Rebecca.Traister@nymag.com",
+            "name": "Traister, Rebecca",
+            "sn": "Traister"
+        },
+        {
+            "mail": "PFNYC@nymag.com",
+            "name": "PFNYC"
+        },
+        {
+            "mail": "PublicMorals@nymag.com",
+            "name": "PublicMorals"
+        },
+        {
+            "telephonenumber": "212-508-0608",
+            "mail": "Mikki.Halpin@nymag.com",
+            "name": "Halpin, Mikki",
+            "sn": "Halpin"
+        },
+        {
+            "telephonenumber": "212-508-0646",
+            "mail": "Josh.Turk@nymag.com",
+            "name": "Turk, Josh",
+            "sn": "Turk"
+        },
+        {
+            "telephonenumber": "212-508-0573",
+            "mail": "Jillian.Mapes@nymag.com",
+            "name": "Mapes, Jillian",
+            "sn": "Mapes"
+        },
+        {
+            "mail": "Dan.Dyksen@nymag.com",
+            "name": "Dyksen, Dan",
+            "sn": "Dyksen"
+        },
+        {
+            "mail": "jrwp@nymag.com",
+            "name": "jrwp",
+            "sn": "Writing Program"
+        },
+        {
+            "telephonenumber": "212-508-0580",
+            "mail": "Dayna.Evans@nymag.com",
+            "name": "Evans, Dayna",
+            "sn": "Evans"
+        },
+        {
+            "mail": "Casey.Edwards@nymag.com",
+            "name": "Edwards, Casey",
+            "sn": "Edwards"
+        },
+        {
+            "mail": "Jenna.Xu@nymag.com",
+            "name": "Xu, Jenna",
+            "sn": "Xu"
+        },
+        {
+            "mail": "Brian.Feldman@nymag.com",
+            "name": "Feldman, Brian",
+            "sn": "Feldman"
+        },
+        {
+            "mail": "Indya.Brown@nymag.com",
+            "name": "Brown, Indya",
+            "sn": "Brown"
+        },
+        {
+            "telephonenumber": "212-508-",
+            "mail": "Christina.Milazzo@nymag.com",
+            "name": "Milazzo, Christina",
+            "sn": "Milazzo"
+        },
+        {
+            "mail": "Ted.Hart@nymag.com",
+            "name": "Hart, Ted",
+            "sn": "Hart"
+        },
+        {
+            "mail": "Hilary.Weaver@nymag.com",
+            "name": "Weaver, Hilary",
+            "sn": "Weaver"
+        },
+        {
+            "mail": "Harry.Charlesworth@nymag.com",
+            "name": "Charlesworth, Harry",
+            "sn": "Charlesworth"
+        },
+        {
+            "mail": "Isabel.Cohen@nymag.com",
+            "name": "Cohen, Isabel",
+            "sn": "Cohen"
+        },
+        {
+            "mail": "Samantha.Leach@nymag.com",
+            "name": "Leach, Samantha",
+            "sn": "Leach"
+        },
+        {
+            "mail": "Kara.Nardoni@nymag.com",
+            "name": "Nardoni, Kara",
+            "sn": "Nardoni"
+        },
+        {
+            "mail": "Morgan.VonSteen@nymag.com",
+            "name": "Von Steen, Morgan",
+            "sn": "Von Steen"
+        },
+        {
+            "mail": "Alexandra.Pastore@nymag.com",
+            "name": "Pastore, Alexandra",
+            "sn": "Pastore"
+        },
+        {
+            "mail": "David.Frey@nymag.com",
+            "name": "Frey, David Andrew",
+            "sn": "Frey"
+        },
+        {
+            "mail": "vultureinsiders@vulture.com",
+            "name": "insiders, vulture",
+            "sn": "insiders"
+        },
+        {
+            "telephonenumber": "1 (212) 508-0042",
+            "mail": "Me.Fernandez@vulture.com",
+            "name": "Fernandez, Maria Elena",
+            "sn": "Fernandez"
+        },
+        {
+            "mail": "Anna.Furman@nymag.com",
+            "name": "Furman, Anna",
+            "sn": "Furman"
+        },
+        {
+            "mail": "Danielle.Smith@nymag.com",
+            "name": "Smith, Danielle",
+            "sn": "Smith"
+        },
+        {
+            "mail": "Katie.Levingston@nymag.com",
+            "name": "Levingston, Katie",
+            "sn": "Levingston"
+        },
+        {
+            "mail": "Ben.Ellman@nymag.com",
+            "name": "Ellman, Ben",
+            "sn": "Ellman"
+        },
+        {
+            "mail": "Elaine.Godfrey@nymag.com",
+            "name": "Godfrey, Elaine",
+            "sn": "Godfrey"
+        },
+        {
+            "mail": "Eric.Levitz@nymag.com",
+            "name": "Levitz, Eric",
+            "sn": "Levitz"
+        },
+        {
+            "mail": "Nathan.Pemberton@nymag.com",
+            "name": "Pemberton, Nathan",
+            "sn": "Pemberton"
+        },
+        {
+            "mail": "insiderspitch@vulture.com",
+            "name": "insiderspitch",
+            "sn": "pitch"
+        },
+        {
+            "mail": "Courtney.Duckworth@nymag.com",
+            "name": "Duckworth, Courtney",
+            "sn": "Duckworth"
+        },
+        {
+            "mail": "Leilani.Pineda@nymag.com",
+            "name": "Piheda, Leilani",
+            "sn": "Pineda"
+        },
+        {
+            "mail": "Kathy.Emanuilidis@nymag.com",
+            "name": "Emanuilidis, Kathy",
+            "sn": "Emanuilidis"
+        },
+        {
+            "mail": "Julie.Andrews@nymag.com",
+            "name": "Andrews, Julie",
+            "sn": "Andrews"
+        },
+        {
+            "mail": "Gregory.Birkhofer@nymag.com",
+            "name": "Birkhofer, Gregory",
+            "sn": "Birkhofer"
+        },
+        {
+            "mail": "Olga.Gonzalez-Latapi@nymag.com",
+            "name": "Gonzalez-Latapi, Olga",
+            "sn": "Gonzalez-Latapi"
+        },
+        {
+            "mail": "John.Sherrman@nymag.com",
+            "name": "Sherrman, John",
+            "sn": "Sherrman"
+        },
+        {
+            "mail": "John.Sherman@nymag.com",
+            "name": "Sherman, John",
+            "sn": "Sherman"
+        },
+        {
+            "telephonenumber": "310-315-0998",
+            "mail": "Kate.Mahoney@nymag.com",
+            "name": "Mahoney, Kate",
+            "sn": "Mahoney"
+        },
+        {
+            "mail": "Amelia.Schonbek@nymag.com",
+            "name": "Schonbek, Amelia",
+            "sn": "Schonbek"
+        },
+        {
+            "mail": "nyhats@nymag.com",
+            "name": "Hats, NY",
+            "sn": "Hats"
+        },
+        {
+            "mail": "Alexandra.Mishaan@nymag.com",
+            "name": "Mishaan, Alexandra",
+            "sn": "Mishaan"
+        },
+        {
+            "mail": "Jody.Wissner@nymag.com",
+            "name": "Wissner, Jody",
+            "sn": "Wissner"
+        },
+        {
+            "mail": "Jonah.Shepp@nymag.com",
+            "name": "Shepp, Jonah",
+            "sn": "Shepp"
+        },
+        {
+            "mail": "Stacey.Hunt@vulture.com",
+            "name": "Hunt, Stacey",
+            "sn": "Hunt"
+        },
+        {
+            "mail": "Max.Read@nymag.com",
+            "name": "Read, Max",
+            "sn": "Read"
+        },
+        {
+            "mail": "Bryant.Copley@nymag.com",
+            "name": "Copley, Bryant",
+            "sn": "Copley"
+        },
+        {
+            "mail": "Chris.Segedy@nymag.com",
+            "name": "Segedy, Chris",
+            "sn": "Segedy"
+        },
+        {
+            "telephonenumber": "212-508-0834",
+            "mail": "Abby.Kallgren@nymag.com",
+            "name": "Kallgren, Abby",
+            "sn": "Kallgren"
+        },
+        {
+            "mail": "Kyle.Chayka@nymag.com",
+            "name": "Chayka, Kyle",
+            "sn": "Chayka"
+        },
+        {
+            "telephonenumber": "212-508-0450",
+            "mail": "Marissa.Cetin@nymag.com",
+            "name": "Cetin, Marissa",
+            "sn": "Cetin"
+        },
+        {
+            "mail": "Bill.Cort@nymag.com",
+            "name": "Cort, Bill",
+            "sn": "Cort"
+        },
+        {
+            "mail": "iosbuilds@nymag.com",
+            "name": "iosbuilds"
+        },
+        {
+            "mail": "Neda.Semnani@nymag.com",
+            "name": "Semnani, Neda",
+            "sn": "Semnani"
+        }
+    ]
+}
