@@ -94,20 +94,26 @@ app.post('/*', function(req, res, next) {
 app.get('/phone', function(req, res) { 
   var term = req.query.term || req.query.text;
 
+  var debug = '';
+  if (req.query.DEBUG) {
+    debug = ' ' + JSON.stringify(req.query);
+  }
+
   var entries = phones.emails.filter(function(el) {
     if (el.name && el.telephonenumber) {
       return el.name.match(new RegExp(term, 'i'));
     }
   });
 
+
   if (req.query.format == 'text') { 
     if (entries.length == 0) {
-      res.status(200).send("No entries found for: " + term)
+      res.status(200).send("No entries found for: " + term + debug)
     } else {
       entries = entries.sort(compare);
       res.status(200).send(entries.map(function(x) { 
         return x.name + ": " + x.telephonenumber;
-      }).join('\n')); 
+      }).join('\n') + debug); 
     } 
   } else {
     res.status(200).send(entries.map(function(x) { 
